@@ -49,4 +49,26 @@ In evaluating the user experience of the bus tracking application in both scenar
 - Customizable route preferences have been welcomed by users, allowing them to tailor their routes according to their specific preferences and needs.
 
 **User Feedback and Testing Results:**
-Feedback and testing results have played a crucial role in shaping the design and functionality of the bus tracking application. User input has influenced various aspects of the app, including interface design, feature implementation, and usability improvements. Some key points derived from user feedback and
+Feedback and testing results have played a crucial role in shaping the design and functionality of the bus tracking application. User input has influenced various aspects of the app, including interface design, feature implementation, and usability improvements. Some key points derived from user feedback and testing results include:
+
+- Simplifying the user interface to make it more intuitive and user-friendly.
+- Enhancing the accuracy and reliability of GPS-based location detection.
+- Improving the visibility and accessibility of route information, particularly on smaller screens.
+- Streamlining the process of inputting source and destination locations for faster route planning.
+
+**Future Improvements and Features:**
+Based on user input and testing results, several future improvements and features are planned for the bus tracking application:
+
+- Implementing real-time updates on bus locations and arrival times to provide users with the most up-to-date information.
+- Enhancing notification systems to alert users of delays, route changes, and other relevant updates in a timely manner.
+- Introducing additional customization options for route preferences to cater to a broader range of user needs and preferences.
+- Integrating user feedback and support mechanisms more seamlessly into the app to encourage user engagement and provide assistance when needed.
+
+## Conclusion:
+In conclusion, the bus tracking application represents a comprehensive solution aimed at enhancing user experience and providing seamless navigation for commuters in both inside and outside bus scenarios. The application's purpose revolves around simplifying the process of accessing real-time bus information, facilitating efficient route planning, and ensuring timely updates on bus locations and arrival times. With features such as GPS-based location detection, customizable route preferences, and integration with Google Maps, the app offers a user-friendly interface and robust functionality to meet the diverse needs of commuters. Throughout the report, we have highlighted the key points of the application's functionality, including its ability to accurately capture user locations, provide detailed route information, and deliver real-time updates on bus statuses. User experience has been evaluated across both inside and outside bus scenarios, with feedback and testing results informing various design and functionality improvements. Overall, the bus tracking application has been met with positive reception, demonstrating its potential to significantly impact users' daily commuting experiences. By offering a convenient and reliable platform for accessing bus information, the app enhances user convenience, reduces travel uncertainties, and fosters a more efficient and enjoyable commuting environment. Moving forward, continual refinement and enhancement of the app based on user feedback and technological advancements will further solidify its position as an indispensable tool for commuters, ensuring a seamless and satisfying travel experience for all users.
+
+## References:
+- Google map API
+- Google map
+- [Android Developers](https://developer.android.com/develop)
+- Google cloud
