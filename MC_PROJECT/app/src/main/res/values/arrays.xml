@@ -1,0 +1,4062 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="station_names">
+<!--        <item>Narela Terminal</item>-->
+<!--        <item>Police Station Narela</item>-->
+<!--        <item>Safiyabad Crossing</item>-->
+<!--        <item>Ramdev Chowk / Pitori Johad</item>-->
+<!--        <item>Narela A-6 / CPJ College</item>-->
+<!--        <item>State Bank Of Allahbad</item>-->
+<!--        <item>Sec A-9 Narela</item>-->
+<!--        <item>Narela Pocket 13 / A-9</item>-->
+<!--        <item>Narela Pocket 13 / A-6</item>-->
+<!--        <item>Raja Harish Chandra Hospital</item>-->
+<!--        <item>Kasturi Ram School</item>-->
+<!--        <item>Munim Ji Ka Bagh</item>-->
+<!--        <item>New Anaj Mandi</item>-->
+<!--        <item>Kurani More</item>-->
+<!--        <item>Prem Nagar Narela</item>-->
+<!--        <item>Maharaja Agrassen School</item>-->
+<!--        <item>Bharat Mata School</item>-->
+<!--        <item>Kaushal Devi Netraheen Ashram</item>-->
+<!--        <item>Sannoth Crossing / Ghoga Crossing</item>-->
+<!--        <item>Delhi Jal Board Bawana</item>-->
+<!--        <item>Jain Bekhunth Mandir</item>-->
+<!--        <item>Bawana JJ Colony CRPF Camp</item>-->
+<!--        <item>Swaroop Nagar GT Road</item>-->
+<!--        <item>Libas Pur GT Road</item>-->
+<!--        <item>Sanjay Gandhi Transport Nagar</item>-->
+<!--        <item>Mukarba Chowk</item>-->
+<!--        <item>GTK Depot</item>-->
+<!--        <item>Jahangirpuri GT Road (Metro Station)</item>-->
+<!--        <item>Mahindra Park</item>-->
+<!--        <item>Sarai Pipal Thala</item>-->
+<!--        <item>Adarsh Nagar Metro Station</item>-->
+<!--        <item>New Sabzi Mandi</item>-->
+<!--        <item>Azadpur Terminal (Bara Bagh Road)</item>-->
+<!--        <item>Bara Bagh</item>-->
+<!--        <item>Gujranwala Town</item>-->
+<!--        <item>Telephone Exchange</item>-->
+<!--        <item>State Bank Colony</item>-->
+<!--        <item>Gurudwara Nanak Pyau</item>-->
+<!--        <item>Rana Pratap Bagh</item>-->
+<!--        <item>Gur Mandi</item>-->
+<!--        <item>Roop Nagar / Shakti Nagar (GT Road)</item>-->
+<!--        <item>Clock Tower</item>-->
+<!--        <item>Roshnara Bagh</item>-->
+<!--        <item>Roshnara Road</item>-->
+<!--        <item>Ice Factory (Roshanara Road)</item>-->
+<!--        <item>St Stephen Hospital</item>-->
+<!--        <item>Tees Hazari Court</item>-->
+<!--        <item>ISBT Nityanand Marg</item>-->
+<!--        <item>ISBT Bridge</item>-->
+<!--        <item>Metro Train Depot</item>-->
+<!--        <item>Shyam Giri Mandir</item>-->
+<!--        <item>Shastri Park GT Road</item>-->
+<!--        <item>Dharampura GT Road</item>-->
+<!--        <item>Seelampur Metro Station</item>-->
+<!--        <item>Seelam Pur Petrol Pump</item>-->
+<!--        <item>Welcome Metro Station</item>-->
+<!--        <item>Shahdara (Shyam Lal College)</item>-->
+<!--        <item>Mansarovar Park Metro Station</item>-->
+<!--        <item>Dilshad Garden GT Road</item>-->
+<!--        <item>Shahdara Border Circle</item>-->
+<!--        <item>Surya Nagar (Gazipur Road)</item>-->
+<!--        <item>Ram Prastha Temple</item>-->
+<!--        <item>Ram Prastha Crossing</item>-->
+<!--        <item>Anand Vihar ISBT Main Road</item>-->
+<!--        <item>Kair Depot</item>-->
+<!--        <item>Mitraon Village (Dhansa Road)</item>-->
+<!--        <item>Mitraon School</item>-->
+<!--        <item>Surehra Crossing</item>-->
+<!--        <item>Rawta Crossing (Dhansa Road)</item>-->
+<!--        <item>Jaffarpur Kalan RTRM Hospital</item>-->
+<!--        <item>Samaspur Khalsa</item>-->
+<!--        <item>Tikri Border Metro Station</item>-->
+<!--        <item>Tikari Village</item>-->
+<!--        <item>Tikri Hospital</item>-->
+<!--        <item>Tikri Piyau / Azad Hind Gram</item>-->
+<!--        <item>Indian Oil Corporation</item>-->
+<!--        <item>Ghevra Crossing (Kanjhawala Road)</item>-->
+<!--        <item>FCI Ghevra</item>-->
+<!--        <item>Ghevra Village</item>-->
+<!--        <item>Sir Chhotu Ram Polytechnic</item>-->
+<!--        <item>Haryana Shakti School Kanjhawla</item>-->
+<!--        <item>Desu Sub Station</item>-->
+<!--        <item>Kanjhawala Village</item>-->
+<!--        <item>Kanjhawla Chowk</item>-->
+<!--        <item>Kanjhawla School</item>-->
+<!--        <item>Chandpur Kalan Crossing</item>-->
+<!--        <item>Chand Pur Village</item>-->
+<!--        <item>Chand Pur Majra School</item>-->
+<!--        <item>Majra Dabas Village</item>-->
+<!--        <item>Prem Piyau</item>-->
+<!--        <item>Shri Krishna Gaushala</item>-->
+<!--        <item>Bajit Pur Crossing</item>-->
+<!--        <item>Krishna Vihar</item>-->
+<!--        <item>Ishwar Colony</item>-->
+<!--        <item>Panchayat Ghar</item>-->
+<!--        <item>Primary School</item>-->
+<!--        <item>Bawana Village Chowk</item>-->
+<!--        <item>Badli Railway Staion</item>-->
+<!--        <item>Samaypur School</item>-->
+<!--        <item>Prem Nagar</item>-->
+<!--        <item>Ice Factory (Nityanand Marg)</item>-->
+<!--        <item>ISBT Kashmere Gate (Lothian Road)</item>-->
+<!--        <item>Guru Govind Singh University (Kashmere Gate)</item>-->
+<!--        <item>GPO</item>-->
+<!--        <item>Old Delhi Railway Station</item>-->
+<!--        <item>Shahdara Terminal</item>-->
+<!--        <item>Kanti Nagar Extension</item>-->
+<!--        <item>Jharkhandi</item>-->
+<!--        <item>East Azad Nagar</item>-->
+<!--        <item>Swaran Cinema</item>-->
+<!--        <item>Krishna Nagar A Block</item>-->
+<!--        <item>Hans Apartment</item>-->
+<!--        <item>Arjun Nagar</item>-->
+<!--        <item>Radheypuri</item>-->
+<!--        <item>Jagatpuri  A Block</item>-->
+<!--        <item>Jagatpuri F-Block</item>-->
+<!--        <item>Gagan Vihar</item>-->
+<!--        <item>Karkardooma Xing</item>-->
+<!--        <item>New Rajdhani Enclave</item>-->
+<!--        <item>Preet Vihar</item>-->
+<!--        <item>Nirman Vihar</item>-->
+<!--        <item>Shakarpur Crossing</item>-->
+<!--        <item>Shakarpur</item>-->
+<!--        <item>Laxmi Nagar</item>-->
+<!--        <item>Rainy Well</item>-->
+<!--        <item>Delhi Secretariat</item>-->
+<!--        <item>ITO</item>-->
+<!--        <item>Tilak Bridge</item>-->
+<!--        <item>Mandi House</item>-->
+<!--        <item>Kasturba Gandhi Road Crossing</item>-->
+<!--        <item>Firoz Shah Road</item>-->
+<!--        <item>Le Meridian Hotel / Rajendra Prasad Road</item>-->
+<!--        <item>Krishi Bhawan</item>-->
+<!--        <item>Red Cross Road</item>-->
+<!--        <item>Aakashwani Bhawan (Imtiyaz Ali Road)</item>-->
+<!--        <item>Gurudwara Rakab Ganj Road</item>-->
+<!--        <item>Kendriya Terminal (Church Road)</item>-->
+        <item>Najafgarh Terminal</item>
+        <item>Jharoda Crossing/Nazafgarh Terminal</item>
+        <item>Jharoda Crossing</item>
+        <item>Health Centre</item>
+        <item>NajafGarh Delhi Gate</item>
+        <item>Tuda Mandi</item>
+        <item>Nangli Sakrawati</item>
+        <item>Nangli Sakrawati Crossing</item>
+        <item>Arjun Park</item>
+        <item>Chhathh Ghat Park</item>
+        <item>Nangli Dairy</item>
+        <item>Kakrola Bridge</item>
+        <item>Kakrola More</item>
+        <item>Sewak Park Dwarka More Metro Station</item>
+        <item>Rama Park</item>
+        <item>Mohan Garden</item>
+        <item>Nawada</item>
+        <item>Kiran Garden</item>
+        <item>Om Vihar</item>
+        <item>Uttam Nagar</item>
+        <item>Uttam Nagar / A1 Janak Puri</item>
+        <item>Tilak Pul</item>
+        <item>Jivan park</item>
+        <item>C-1 Janak Puri</item>
+        <item>C-2 Janak Puri</item>
+        <item>C2D Janak Puri</item>
+        <item>Dabri Crossing (Pankha Road)</item>
+        <item>Janak Cinema</item>
+        <item>Desu Colony Janak Puri</item>
+        <item>SagarPur Vashisht Park</item>
+        <item>D Block Janak Puri</item>
+        <item>Lajwanti Garden</item>
+        <item>Lajwanti Garden (Carriappa Marg)</item>
+        <item>Janak Setu</item>
+        <item>Supply Depot</item>
+        <item>Kirbi Place</item>
+        <item>Thimiyan Park</item>
+        <item>S O Flats Carriappa Marg</item>
+        <item>R R Line</item>
+        <item>Golf Club</item>
+        <item>Dhaula Kuan</item>
+        <item>BBM Cluster Depot</item>
+        <item>Sewa Kutir</item>
+        <item>GTB Nagar / Haqiqat Nagar</item>
+        <item>INS Hostel</item>
+        <item>Vishwa Vidyalaya Metro Station</item>
+        <item>Mall Road</item>
+        <item>Banarsi Daas Estate Timarpur</item>
+        <item>Timarpur</item>
+        <item>Balak Ram Hospital</item>
+        <item>Police Station Timarpur</item>
+        <item>Nehru Vihar Crossing</item>
+        <item>Wazirabad Crossing</item>
+        <item>Gurudwara Nanak Sar</item>
+        <item>Pusta No 1 Sonia Vihar</item>
+        <item>Pusta No 2 Sonia Vihar</item>
+        <item>Pusta No 3 Sonia Vihar</item>
+        <item>Gatta Factory Sonia Vihar</item>
+        <item>Sonia Vihar</item>
+        <item>Pusta No 5 Sonia Vihar</item>
+        <item>Check Post</item>
+        <item>Annpurna Mandir</item>
+        <item>Sabhapur More</item>
+        <item>Chauhan Patti (Terminal)</item>
+        <item>NHAI Building/ Dwarka Sec-10 Metro Station</item>
+        <item>Dwarka Sec-19 Modern School</item>
+        <item>Amrohi More</item>
+        <item>St Marry School</item>
+        <item>Police Post</item>
+        <item>Qutub Vihar Phase-I Kikar Stand</item>
+        <item>Jhankar Crossing</item>
+        <item>Goyla Dairy</item>
+        <item>Nehru Bus Stand Goyla Dairy</item>
+        <item>St Thomas School Goyla Vihar</item>
+        <item>Taj Pur More</item>
+        <item>Goyla Village</item>
+        <item>Shyam Vihar</item>
+        <item>Goela Dairy Crossing</item>
+        <item>Deenpur Village</item>
+        <item>Durga Vihar</item>
+        <item>BDO Office</item>
+        <item>Chhawla Stand Najafgarh</item>
+        <item>Police Station Najafgarh</item>
+        <item>Dichau Chowk</item>
+        <item>Udaseen Ashram</item>
+        <item>Nirmal Vihar</item>
+        <item>Dichau Kalan Depot</item>
+        <item>Azadpur Terminal</item>
+        <item>Adarsh Nagar / Bharola Village</item>
+        <item>Sarai Peepal Thala</item>
+        <item>Jahangir Puri GT Road</item>
+        <item>Jahangir Puri Metro Station</item>
+        <item>Gurudwara Siraspur GT Road</item>
+        <item>Nangli Poona More</item>
+        <item>Khera Garhi</item>
+        <item>Khera Kalan School</item>
+        <item>Khera Kalan Gaon</item>
+        <item>Rishi Dharmarth Chikitsalaya</item>
+        <item>Khera Khurd Village</item>
+        <item>Khera Khurd Nahar Crossing</item>
+        <item>Naya Bans</item>
+        <item>Mann School</item>
+        <item>Holambi Khurd DRID College</item>
+        <item>Holambi Khurd</item>
+        <item>Holambi Kalan Terminal</item>
+        <item>Holambi Kalan Crossing</item>
+        <item>Shahpur Garhi</item>
+        <item>Narela ITI / Narela Depot</item>
+        <item>DSIDC Narela</item>
+        <item>Bhor Garh</item>
+        <item>Babu Jag Jeevan Ram Colony</item>
+        <item>Old Anaj Mandi</item>
+        <item>Narela Primary School</item>
+        <item>Keshav Nagar Mukti Ashram</item>
+        <item>Ibrahim Pur More</item>
+        <item>Natthupura Crossing Terminal</item>
+        <item>Amrit Vihar Colony</item>
+        <item>Koushik Enclave</item>
+        <item>Laxmi Vihar</item>
+        <item>Ekta Garden- Harijan Basti</item>
+        <item>Burari Village</item>
+        <item>Sarvodhya Vidhyalay Burari</item>
+        <item>Balti Factory</item>
+        <item>Sant Nagar Main Market</item>
+        <item>Sant Nagar A-1</item>
+        <item>Jharoda Dairy Crossing</item>
+        <item>Burari Transport Authority</item>
+        <item>Nirankari Sarover- Burari Xing</item>
+        <item>CV Raman ITI</item>
+        <item>Nirankari Colony</item>
+        <item>Radio Colony</item>
+        <item>Dhaka Village</item>
+        <item>Balmiki Gandhi Ashram</item>
+        <item>TB Hospital</item>
+        <item>GTB Nagar</item>
+        <item>Khyber Pass</item>
+        <item>Vidhan Sabha Metro Station</item>
+        <item>Old Secretariat (Postal Account Office)</item>
+        <item>IP College</item>
+        <item>Exchange Store / Civil Lines Metro Station</item>
+        <item>Ludlow Castle</item>
+        <item>Natthupura Terminal</item>
+        <item>Madanpur Khadar JJ Colony</item>
+        <item>Madanpur Khadar Crossing</item>
+        <item>Kalindi Kunj Metro Station</item>
+        <item>Kalindi Kunj</item>
+        <item>Shaheen Bagh</item>
+        <item>Jasola Vihar</item>
+        <item>Sarita Vihar K Block</item>
+        <item>Apollo Hospital</item>
+        <item>Harkesh Nagar</item>
+        <item>Okhla Tank</item>
+        <item>CRRI</item>
+        <item>Sukhdev Vihar Depot</item>
+        <item>Kalkaji Xing</item>
+        <item>Ishwar Nagar</item>
+        <item>Ashram Chowk</item>
+        <item>Ashram (Hari Nagar)</item>
+        <item>Bhogal</item>
+        <item>Bhogal (Jungpura)</item>
+        <item>Nizamuddin Extension</item>
+        <item>Police Station Nizamuddin (Dargah)</item>
+        <item>Ishpat Bhawan</item>
+        <item>JLN Stadium (Sunehripulla Depot)</item>
+        <item>Lodhi Colony 18-Block</item>
+        <item>Lodhi Colony</item>
+        <item>Kushak Nallah Depot</item>
+        <item>Madanpur Khadar Village</item>
+        <item>Sarita Vihar</item>
+        <item>Nehru Nagar</item>
+        <item>Lajpat Nagar Ring Road</item>
+        <item>Gupta Market</item>
+        <item>MCKR Hospital</item>
+        <item>Defence Colony</item>
+        <item>Pant Nagar</item>
+        <item>CGO Complex</item>
+        <item>Amir Khusro Park / Oberoi Hotel</item>
+        <item>Delhi Public School</item>
+        <item>Sunder Nagar</item>
+        <item>Zoo</item>
+        <item>National Stadium</item>
+        <item>ITPO Gate No. 3</item>
+        <item>Pragati Maidan Gate No. 5</item>
+        <item>Supreme Court</item>
+        <item>Pragati Maidan Metro Station</item>
+        <item>ITO (Agarwal Chowk)</item>
+        <item>Express Building</item>
+        <item>Delhi Gate</item>
+        <item>Darya Ganj Golcha Cinema</item>
+        <item>Subhash Park</item>
+        <item>Jama Masjid</item>
+        <item>Red Fort</item>
+        <item>Old Delhi Railway Station (T) H C Sen Marg</item>
+        <item>Sarang Pur Village</item>
+        <item>JhulJhuli Village</item>
+        <item>Jhul-Jhuli Check Post / Ghumanhera Crossing</item>
+        <item>Malik Pur Village Crossing</item>
+        <item>Ujwa Gaon</item>
+        <item>Ujwa School</item>
+        <item>Mitraon Crossing</item>
+        <item>Indra Service Station</item>
+        <item>Nanak Piyau</item>
+        <item>Prem Nursary</item>
+        <item>Khera More</item>
+        <item>Jharoda Crossing Jharoda Road</item>
+        <item>Shalimar Bagh (Ring Road)</item>
+        <item>Ashok Vihar Crossing</item>
+        <item>Richi Rich</item>
+        <item>Prem Bari Pul</item>
+        <item>Punjab Kesari (Subhash Palace Depot)</item>
+        <item>Wazirpur DTC Depot / Netaji Subhash Palace</item>
+        <item>Pitampura ND Block</item>
+        <item>Kohat Enclave Metro Station</item>
+        <item>Vaishali  Enclave / Kapil Vihar</item>
+        <item>JD Block Pitam Pura</item>
+        <item>PitampuraMetro Stn (MadhuvanChowk)</item>
+        <item>Madhuban Chowk Outer Ring Road</item>
+        <item>Saraswati  Vihar C Block</item>
+        <item>Deepali Chowk</item>
+        <item>Kali Mata Mandir</item>
+        <item>Puspanjali Enclave</item>
+        <item>Rohini Depot - 3</item>
+        <item>Mangolpur School</item>
+        <item>Mangolpur Kalan Village</item>
+        <item>Avantika Crossing</item>
+        <item>Mangol Pur Khurd</item>
+        <item>Mangolpuri Y Block</item>
+        <item>Budh Vihar</item>
+        <item>Brahm Shakti Hospital</item>
+        <item>Pooth Kalan</item>
+        <item>Rohini Sec-21</item>
+        <item>Begumpur</item>
+        <item>Rajeev Nagar</item>
+        <item>Karala Pathsala Jain Mandir</item>
+        <item>Sukhbeer Nagar</item>
+        <item>Rama Vihar</item>
+        <item>Karala School</item>
+        <item>Karala Village</item>
+        <item>Karala Crossing</item>
+        <item>Desu Office</item>
+        <item>Shiv Vihar Bheem Chowk</item>
+        <item>Radha Swami Satsang</item>
+        <item>Shivam Plywood</item>
+        <item>Nirmal Hospital</item>
+        <item>Ladpur Village</item>
+        <item>Rajendra Lakra Public School</item>
+        <item>Sant Vivekanand School</item>
+        <item>Vriddha Ashram</item>
+        <item>Jonti Crossing</item>
+        <item>Jonti Village</item>
+        <item>Tatesar Village</item>
+        <item>Balaji Enclave</item>
+        <item>Punjab Khor Village</item>
+        <item>Divya Dham Ashram</item>
+        <item>Jatt Khor Crossing</item>
+        <item>Qutub Garh Enclave</item>
+        <item>Qutub Garh Village (T)</item>
+        <item>Katewara Crossing</item>
+        <item>Katewara Colony</item>
+        <item>Rajghat Depot</item>
+        <item>Rajghat Gandhi Darshan</item>
+        <item>Gandhi Darshan</item>
+        <item>Indira Gandhi Stadium</item>
+        <item>IP Power House (ITO Ring Road)</item>
+        <item>Indraprastha Depot</item>
+        <item>Pragati Power Station</item>
+        <item>Railway Road Bridge</item>
+        <item>Nizamuddin Road Bridge</item>
+        <item>ISBT Sarai Kale Khan</item>
+        <item>Central School Lodhi Road</item>
+        <item>J L Nehru Stadium</item>
+        <item>Sewa Nagar Flyover</item>
+        <item>Defence Colony (Homyopathic College)</item>
+        <item>PT College Kotla</item>
+        <item>Andrews Ganj</item>
+        <item>Lajpat Nagar (Ring Road)</item>
+        <item>Lajpat Nagar Crossing</item>
+        <item>Garhi Village</item>
+        <item>B-Block East of Kailash</item>
+        <item>C-Block East of Kailash</item>
+        <item>SNPD</item>
+        <item>Laghu Udyog Sansthan (ModiMill)</item>
+        <item>NSIC</item>
+        <item>Kalkaji Mandir</item>
+        <item>Kalkaji Mandir (MaaAnandmayeeMarg)</item>
+        <item>Govind Puri Metro Station</item>
+        <item>Kalkaji Depot</item>
+        <item>C-Lal Chowk</item>
+        <item>CRPF Camp / Crown Plaza</item>
+        <item>Bank</item>
+        <item>Okhla Ph-I</item>
+        <item>ESI Hospital</item>
+        <item>Tehkhand Depot DTC</item>
+        <item>Lal Kuan</item>
+        <item>Surajkund Crossing</item>
+        <item>Prehlad Pur</item>
+        <item>Badarpur M B Road</item>
+        <item>Jaitpur Crossing</item>
+        <item>Najafgarh Delhi Gate</item>
+        <item>Chawla Stand Najafgarh</item>
+        <item>Goyla Dairy (Qutub Vihar)</item>
+        <item>President Cabinet Apartments</item>
+        <item>Princess Park/ Airforce Noval Office Enclave</item>
+        <item>Dwarka Sec-6/7</item>
+        <item>Dwarka Sec-6 Telephone Exchange</item>
+        <item>Dwarka Crossing / Maharaja Agrasen Hospital</item>
+        <item>Mangla Puri Terminal</item>
+        <item>Shivaji Stadium Terminal</item>
+        <item>Shaheed Bhagat Singh Marg</item>
+        <item>Gole Market</item>
+        <item>PS Mandir Marg</item>
+        <item>Balmiki Mandir</item>
+        <item>Panchkuian Road Banwai Lal Hospital</item>
+        <item>Meghdoot Bhawan</item>
+        <item>Pusa Road Petrol Pump Sadhu Vaswani Marg</item>
+        <item>Karol Bagh Metro Station</item>
+        <item>East Patel Nagar</item>
+        <item>South Patel Nagar (Metro Station)</item>
+        <item>West Patel Nagar</item>
+        <item>Shadipur DTC Colony Metro Station</item>
+        <item>Shadipur Depot</item>
+        <item>Moti Nagar Industrial Area</item>
+        <item>Karampura Terminal</item>
+        <item>New Moti Nagar B Block</item>
+        <item>Punjabi Bagh Terminal</item>
+        <item>Shakkur Pur Crossing / Britannia</item>
+        <item>Netaji Subhas Place/Wazirpur Depot</item>
+        <item>Guru Govind Singh College</item>
+        <item>TV Tower (Power House)</item>
+        <item>DAV School</item>
+        <item>Pitam Pura KD Block</item>
+        <item>Pittampura AP-Block</item>
+        <item>Pitampura CD-Block</item>
+        <item>Pitampura Power House</item>
+        <item>Madhuban Chowk (Outer Ring Road)</item>
+        <item>Madhuvan Chowk</item>
+        <item>Sai Baba Chowk Rohini</item>
+        <item>Rohini Sec 7 and 8</item>
+        <item>Rohini West Metro Station</item>
+        <item>Rohini Depot 1 Sec 6 (Ambedkar Hospital)</item>
+        <item>Rajeev Gandhi Cancer Hospital</item>
+        <item>Rithala Metro Station</item>
+        <item>Pal Colony</item>
+        <item>Rithala Village</item>
+        <item>Sec-24 Rohini Main Road</item>
+        <item>Dera Satguru Sewaram Sahai Sec 24/25</item>
+        <item>Hanuman Mandir Rohini Sec 24</item>
+        <item>Rohini Sec 23 Pkt 1 (Green Hill Aptt.)</item>
+        <item>Ghuman Hera Village</item>
+        <item>Ghuman Hera More / Shikarpur Crossing</item>
+        <item>Dewta Wala mandir</item>
+        <item>Hasanpur Village</item>
+        <item>KharKhari Rondh</item>
+        <item>Pandwala Crossing</item>
+        <item>Surhera Crossing</item>
+        <item>KharKhari Nahar / Khera Dabur</item>
+        <item>Khera Village 2</item>
+        <item>Krishna Nagar / Gopal Nagar</item>
+        <item>Jhatikra Crossing Pandwala Road</item>
+        <item>Rewla Khanpur Crossing</item>
+        <item>Purani Basti Rewla Khanpur</item>
+        <item>Rewla Khanpur Depot</item>
+        <item>Tikri Khurd</item>
+        <item>Tikri Khurd Crossing / AMPC</item>
+        <item>Khampur Village</item>
+        <item>Bakauli Village (GT Road)</item>
+        <item>Shani Dham Mandir GT Road</item>
+        <item>Pwd Office</item>
+        <item>Alipur Village GT Road</item>
+        <item>Jind Pur Crossing</item>
+        <item>Sai Mandir</item>
+        <item>Budhpur GT Road</item>
+        <item>Jain Mandir</item>
+        <item>Nangli Poona (GT Road)</item>
+        <item>Kapashera Border</item>
+        <item>Kapashera Village</item>
+        <item>Kapashera Crossing</item>
+        <item>Samalkha Village</item>
+        <item>Samalkha Crossing</item>
+        <item>Puspanjali G Block</item>
+        <item>Dwarka Road</item>
+        <item>Bharthal Under Pass</item>
+        <item>Dwarka Sec-21 Metro Station</item>
+        <item>Dwarka Sec-21 Crossing</item>
+        <item>Dwarka Sec 22 Vivanta Hotel</item>
+        <item>Dwarka Sec-20/21 Crossing</item>
+        <item>Dwarka Sec-8 Metro Station</item>
+        <item>Shahbad Mohammad Pur School</item>
+        <item>Shahbad Mohammad Pur Village</item>
+        <item>Dwarka Sec-8</item>
+        <item>Bagdola Village</item>
+        <item>Dwarka Sec-8 DTC Depot</item>
+        <item>National Malariya Research Centre (Dwarka)</item>
+        <item>Dada Dev Mandir</item>
+        <item>Royal Residency (Dwarka)</item>
+        <item>Munirka Flats (Dwarka)</item>
+        <item>Dwarka Sec 1</item>
+        <item>Sulabh International Centre</item>
+        <item>Mahaveer Enclave III</item>
+        <item>Dashrath Puri</item>
+        <item>Vijay Enclave (Palam-Dabri Road)</item>
+        <item>Dabri Village</item>
+        <item>Dabri Crossing Dwarka Road</item>
+        <item>C2D Janakpuri</item>
+        <item>C4E Janakpuri</item>
+        <item>C2B Janak Puri</item>
+        <item>Bharti College</item>
+        <item>Virender Nagar / Dilli Haat</item>
+        <item>Hari Nagar Depot</item>
+        <item>G Block Hari Nagar</item>
+        <item>Fateh Nagar</item>
+        <item>Tilak Nagar Jail Road</item>
+        <item>Tilak Nagar Crossing (Najafgarh Road)</item>
+        <item>Janak Puri Check Post</item>
+        <item>B2A Janakpuri</item>
+        <item>Janak Puri District Centre</item>
+        <item>Dholi Piao</item>
+        <item>Vikaspuri Crossing</item>
+        <item>Uttam Nagar East Metro Station</item>
+        <item>J M International School</item>
+        <item>Dwarka Sec 2-6</item>
+        <item>Madhu Vihar</item>
+        <item>Rajapuri</item>
+        <item>Matiyala Xing</item>
+        <item>DPS Matiyala</item>
+        <item>Dwarka Sec 3-4</item>
+        <item>Dwarka Sec 13-3 Xing</item>
+        <item>MRV School Sec 13 Dwarka</item>
+        <item>Dwarka Sec 13</item>
+        <item>NSIT (Netaji Subhas Institute) / Sulahkul Mandir</item>
+        <item>Suraj Vihar</item>
+        <item>Sai Baba Mandir</item>
+        <item>Power House NajafGarh</item>
+        <item>Nizamuddin Railway Station</item>
+        <item>Rajdoot Hotel</item>
+        <item>Sri Niwaspuri / PG DAV College Lajpat Nagar</item>
+        <item>ESI Hospital Okhla</item>
+        <item>Central Work Shop II</item>
+        <item>Okhla Depot IV CWS II</item>
+        <item>ISBT Kashmere Gate Terminal</item>
+        <item>Ice Factory (Rani Jhansi Road)</item>
+        <item>Shakti Nagar</item>
+        <item>Shakti Nagar Nangia Park</item>
+        <item>Chowki No 2 / Gulabi Bagh Crossing</item>
+        <item>Gulabi Bagh</item>
+        <item>Shastri Nagar A Block</item>
+        <item>Subhadra Colony</item>
+        <item>Shastri Nagar Metro Station</item>
+        <item>Shastri Nagar E Block</item>
+        <item>Shastri Nagar Shiv Mandir</item>
+        <item>Inderlok Metro Station</item>
+        <item>Kanhaiya Nagar</item>
+        <item>B3 Keshav Puram</item>
+        <item>B-4 Keshav Puram</item>
+        <item>Mangol Pur School (Kanjhawla Road)</item>
+        <item>Avantika Xing</item>
+        <item>Rohini Sec 20/21 More</item>
+        <item>Satyapuram Jharoda</item>
+        <item>Jharoda Nala Crossing</item>
+        <item>Jharoda Kalan</item>
+        <item>Jharoda Village</item>
+        <item>S.S. Kanya Vidhyalaya</item>
+        <item>PTS Jharoda</item>
+        <item>CRPF Jharoda</item>
+        <item>Sainik Enclave Jharoda</item>
+        <item>Saraswati Kunj Jharoda</item>
+        <item>Naveen Palace</item>
+        <item>Baba Haridass Nagar</item>
+        <item>Surakh Pur Crossing</item>
+        <item>A-3 Janak Puri</item>
+        <item>C-2 Janakpuri</item>
+        <item>Bharti College / C2B Janak Puri</item>
+        <item>Central Market C3 Janakpuri</item>
+        <item>C-4H Janakpuri</item>
+        <item>Janakpuri C-5A</item>
+        <item>Desu Colony Janakpuri</item>
+        <item>Zunk Market</item>
+        <item>Gulab House</item>
+        <item>Bobby Soap</item>
+        <item>PS Mayapuri</item>
+        <item>Metal Forging</item>
+        <item>Government Press</item>
+        <item>Mayapuri Depot</item>
+        <item>Naraina Vihar / Indra Market</item>
+        <item>Payal Cinema</item>
+        <item>Loha Mandi</item>
+        <item>Bentax</item>
+        <item>Naraina Depot</item>
+        <item>Pandav Nagar</item>
+        <item>Shadipur Colony</item>
+        <item>Shadipur Metro Station</item>
+        <item>Rajendra Place</item>
+        <item>Telephone Exchange Karol Bagh</item>
+        <item>Videocon Tower</item>
+        <item>Paharganj Police Station</item>
+        <item>Dispensary Paharganj</item>
+        <item>Ajmeri Gate / Kamla Market</item>
+        <item>JLN Marg</item>
+        <item>Zakir Husain College</item>
+        <item>Turkman Gate / GB Pant Hospital</item>
+        <item>Delite Cinema</item>
+        <item>ISBT Kashmere Gate</item>
+        <item>Mori Gate Terminal</item>
+        <item>Bawana Sec 1 Cluster Depot</item>
+        <item>Sannoth Village</item>
+        <item>Holambi Kalan JJ Colony</item>
+        <item>Holambi Kalan Fatak</item>
+        <item>Jeet Farm</item>
+        <item>Holambi Khurd Crossing</item>
+        <item>Alipur Garhi</item>
+        <item>Alipur Village</item>
+        <item>Bakauli Village</item>
+        <item>Tikri Khurd Crossing</item>
+        <item>Anand Vihar ISBT Terminal</item>
+        <item>Shahdara Border GT Road</item>
+        <item>Jhilmil Xing</item>
+        <item>Welcome Colony Metro Station</item>
+        <item>Welcome Colony</item>
+        <item>Dharam Pura</item>
+        <item>Shastri Park</item>
+        <item>Shastri Park DMRC Depot</item>
+        <item>Shastri Park Metro Depot</item>
+        <item>Azad Market</item>
+        <item>Bara Hindu Rao</item>
+        <item>Model Basti</item>
+        <item>Guru Govind Singh Marg</item>
+        <item>Tibiya College</item>
+        <item>Ram Jas Road</item>
+        <item>Liberty Cinema</item>
+        <item>Sarai Rohilla Govt Qtrs (Rohtak Road)</item>
+        <item>Sarai Rohila (Rohtak Road)</item>
+        <item>Anand Parvat Industrial Area</item>
+        <item>Daya Basti Flyover</item>
+        <item>Zakhira Flyover</item>
+        <item>Ashok Park</item>
+        <item>Ram Pura</item>
+        <item>Punjabi Bagh Power House</item>
+        <item>Punjabi Bagh Terminal (Rohtak Road)</item>
+        <item>C 4 Yamuna Vihar</item>
+        <item>Yamuna Vihar Brijpuri</item>
+        <item>B-Block Yamuna Vihar</item>
+        <item>Bhajanpura</item>
+        <item>Khajuri</item>
+        <item>Garhi Maidu</item>
+        <item>Gamri Extn Pusta No.5</item>
+        <item>Kartar Nagar</item>
+        <item>Jagjit Nagar</item>
+        <item>Pusta No-2</item>
+        <item>New Usman Pur Pusta No-1</item>
+        <item>Zero Pusta</item>
+        <item>Shastri Park Pusta Road</item>
+        <item>Shivaji Park</item>
+        <item>Super Bazar</item>
+        <item>Palika Kendra</item>
+        <item>P S Parliament / Jantar Mantar</item>
+        <item>Aakashwani Bhawan</item>
+        <item>Udyog Bhawan</item>
+        <item>Sunehri Masjid/ G Block</item>
+        <item>Krishan Menon Marg</item>
+        <item>PS Tuglak Road</item>
+        <item>Tughlaq Crescent</item>
+        <item>SJ Madrasa</item>
+        <item>SJ Airport</item>
+        <item>INA Colony</item>
+        <item>Kidwai Nagar</item>
+        <item>AIIMS</item>
+        <item>Yusuf Sarai</item>
+        <item>Green Park</item>
+        <item>Hauz Khas</item>
+        <item>Padhmini Enclave</item>
+        <item>IIT Gate</item>
+        <item>Panchsheel Club / Sarvpriya Vihar</item>
+        <item>Bhavishya Nidhi Enclave</item>
+        <item>Begumpur (Malviya Nagar)</item>
+        <item>Malviya Nagar</item>
+        <item>Aurobindo College</item>
+        <item>Geetanjali Enclave</item>
+        <item>PNB Geetanjali</item>
+        <item>Saket A Block (Malviya Nagar Metro Station)</item>
+        <item>Press Enclave</item>
+        <item>HaujRani / MaxHospital</item>
+        <item>Hauj Rani</item>
+        <item>Khirki Village</item>
+        <item>PSRI</item>
+        <item>Vocational College</item>
+        <item>Sheikh Sarai Phase II</item>
+        <item>Pushpa Bhawan</item>
+        <item>Madangir DDA Flats</item>
+        <item>Ambedkar Nagar Terminal</item>
+        <item>Ambedkar Nagar Depot</item>
+        <item>Khanpur Extension / Devli Xing</item>
+        <item>Vayu Sena Bad (Tigri)</item>
+        <item>Batra Hospital / Satya Narayan Mandir</item>
+        <item>Hamdard Nagar / Sangam Vihar</item>
+        <item>Kendriya Terminal (Pt. Pant Marg)</item>
+        <item>Kendriya Terminal / Gurudwara Rakab Gunj</item>
+        <item>Talkatora Road</item>
+        <item>Dr. RML Hospital</item>
+        <item>Talkatora Stadium Garden</item>
+        <item>Sardar Patel Road Xing (11 Murti)</item>
+        <item>Palika Kutumb</item>
+        <item>Bhartiya Sadhu Samaj</item>
+        <item>Railway Colony (Sardar Patel Marg)</item>
+        <item>Bapu Dham</item>
+        <item>Officer Enclave S.P Marg</item>
+        <item>C-5A Janakpuri</item>
+        <item>C1 Janak Puri</item>
+        <item>Tilak Nagar Terminal</item>
+        <item>Dhansa Stand</item>
+        <item>Mitraon Village</item>
+        <item>Mundhela Khurd School</item>
+        <item>Mundhela Khurd Village</item>
+        <item>Jhingola Village</item>
+        <item>Jhingola Crossing</item>
+        <item>Akbar Pur Majra</item>
+        <item>Akbar Pur Majra Crossing</item>
+        <item>Bakhtawar Pur Garhi</item>
+        <item>Bakhtawar Pur Primary School</item>
+        <item>Bakhtawar Pur Village</item>
+        <item>Triveni Colony</item>
+        <item>Bakhtawar Pur School</item>
+        <item>Palla More</item>
+        <item>Mcd Store</item>
+        <item>Jahangirpuri GT Road</item>
+        <item>Badarpur Border (T)</item>
+        <item>Jaitpur Mor</item>
+        <item>Badarpur M B Road / Rajiv Gandhi Stadium</item>
+        <item>Maa Anand Mayee Marg</item>
+        <item>Minda Farm</item>
+        <item>Model Town III</item>
+        <item>Model Town II</item>
+        <item>Alpana Cinema (Model Town Mtr Stn)</item>
+        <item>New Police Line</item>
+        <item>Delhi Gate (JLN Marg)</item>
+        <item>LNJP Hospital</item>
+        <item>Vivekanand Marg / Minto Road</item>
+        <item>Rani Khera Depot 2</item>
+        <item>Rani Khera Depot Crossing</item>
+        <item>Rani Khera Village</item>
+        <item>Rani Khera School / Bhagya Vihar</item>
+        <item>Mubarak Pur Crossing</item>
+        <item>Shaheed Bhagat Singh Nagar</item>
+        <item>Karala Patshala</item>
+        <item>Begum Pur (Kanjhawala Road)</item>
+        <item>Brahm shakti hospital</item>
+        <item>Buddh vihar</item>
+        <item>Mangol Puri Y Block</item>
+        <item>Mangol Pur School (Outer Ring Road)</item>
+        <item>Rohini Depot III</item>
+        <item>Saraswati Vihar C Block</item>
+        <item>RU Block Power House</item>
+        <item>Pitampura RU Block</item>
+        <item>Uttri Pitam Pura</item>
+        <item>Pitam Pura BV Block</item>
+        <item>Haidarpur Water Works</item>
+        <item>PS Badli</item>
+        <item>Jail Road Rohini Sec 18</item>
+        <item>Badli Village</item>
+        <item>Rohini Sec 18 Block</item>
+        <item>Rohini Sec 18</item>
+        <item>Qutub Minar</item>
+        <item>T B Hospital</item>
+        <item>DDA Flats Lado Sarai</item>
+        <item>PTS</item>
+        <item>MMTC / Adhchini Village</item>
+        <item>Adhchini Village</item>
+        <item>Mothers International School</item>
+        <item>IIT Gate (Aurobindo Marg)</item>
+        <item>Padmani Enclave</item>
+        <item>Safdurjung Hospital / AIIMS</item>
+        <item>S J Madrasa</item>
+        <item>Prithvi Raj Road</item>
+        <item>Prithvi Raj Road Crossing</item>
+        <item>Claridges Hotel</item>
+        <item>National Museum</item>
+        <item>National Archives</item>
+        <item>Windsor Place</item>
+        <item>Western Court</item>
+        <item>Indian Oil Bhawan</item>
+        <item>PS Kamla Market</item>
+        <item>Punjabi Bagh Club</item>
+        <item>Rajdhani College / Raja Garden</item>
+        <item>Rajouri Garden Market</item>
+        <item>Mayapuri Chowk (Ring Road)</item>
+        <item>Naraina Vihar</item>
+        <item>Naraina Village</item>
+        <item>COD Ring Road</item>
+        <item>Barar Square</item>
+        <item>Garrison Engg.</item>
+        <item>RR Line</item>
+        <item>Dhaula Kuan (Ring Road)</item>
+        <item>Satya Niketan</item>
+        <item>Gurudwara Moti Bagh</item>
+        <item>South Moti Bagh (Ring Road)</item>
+        <item>South Moti Bagh</item>
+        <item>R. K. Puram Sec-12</item>
+        <item>Sangam Cinema</item>
+        <item>RK Puram Sec-10</item>
+        <item>Mohan Singh Market</item>
+        <item>R K Puram Sec-1 2</item>
+        <item>RK Puram Sec 1</item>
+        <item>R K Puram Nab</item>
+        <item>Munirka Village (T)</item>
+        <item>Munirka Family Planning</item>
+        <item>Munirka DDA Flats</item>
+        <item>ISTM</item>
+        <item>IIT Hostel</item>
+        <item>Jia Sarai</item>
+        <item>DDA Flats Kalkaji</item>
+        <item>DDA Flats Kalka Ji</item>
+        <item>DDA Market kalka Ji</item>
+        <item>Govindpuri Ext Gali No 16</item>
+        <item>Rampuri Gali No 13</item>
+        <item>Govindpuri Gali No 5</item>
+        <item>Ram Puri / Govind Puri</item>
+        <item>Govind Puri</item>
+        <item>Laghu Udyog Sansthan(ModiMill)</item>
+        <item>East of Kailash C-Block</item>
+        <item>East of Kailash B-Block</item>
+        <item>Garhi Gaon</item>
+        <item>PG DAV College / Sri Niwaspuri</item>
+        <item>Golf Club / Sunder Nagar</item>
+        <item>Kaka Nagar</item>
+        <item>Osho Dhyan Mandir Jhatikra Road</item>
+        <item>Daulat Pur Crossing</item>
+        <item>Jhatikra Village</item>
+        <item>DA Block Hari Nagar</item>
+        <item>Hari Nagar Shaheed Pawan Sahni Chowk</item>
+        <item>DDU Hospital</item>
+        <item>Beriwala Bagh</item>
+        <item>Swarg Ashram</item>
+        <item>LIG Flats</item>
+        <item>Hari Nagar (Mohan Mandir) Mayapuri</item>
+        <item>Panchkuian Road Banwari Lal Hospital</item>
+        <item>Balmiki Mandir Marg</item>
+        <item>Laxmi Nagar / Shakarpur Crossing</item>
+        <item>Shakarpur School Block</item>
+        <item>Ganesh Nagar</item>
+        <item>Mother Dairy</item>
+        <item>Patparganj</item>
+        <item>P S Pandav Nagar</item>
+        <item>Shashi Garden Xing</item>
+        <item>Pocket-5 Mayur Vihar Ph-1</item>
+        <item>ITI Khichiripur</item>
+        <item>Kotla Village</item>
+        <item>Trilokpuri 13 Block</item>
+        <item>Chand Cinema</item>
+        <item>Kalyan Puri Crossing (Chand Cinema Road)</item>
+        <item>Kondali Old</item>
+        <item>Dallu Pura</item>
+        <item>Fire Station</item>
+        <item>Mayur Vihar Phase 3 Crossing</item>
+        <item>New Kondali A1 Crossing</item>
+        <item>Bharti Public School</item>
+        <item>Mayur Vihar Phase III A1 Block</item>
+        <item>CRPF Camp</item>
+        <item>Mayur Vihar Phase III (T) Paper Market</item>
+        <item>Bawana Sec 5 Cluster Depot G2</item>
+        <item>Holambi Crossing</item>
+        <item>Pragati Power Station Bawana</item>
+        <item>Rajeev Ratan Aawas Bawana</item>
+        <item>Ganga Toli Mandir Bawana</item>
+        <item>Sec 1 / 2 Bawana Indst Area</item>
+        <item>DSIDC Bawana Sec 2</item>
+        <item>Bawana Soap Factory</item>
+        <item>Bawana Dispensary</item>
+        <item>Chandpur Khurd</item>
+        <item>SDM Court Kanjhawala</item>
+        <item>Kanjhawala Chowk</item>
+        <item>Radha Swami Satsang / Rupali Enclave</item>
+        <item>Shiv vihar/Bheem chowk</item>
+        <item>Sultanpuri Terminal</item>
+        <item>Jhatikara Crossing</item>
+        <item>Rewla Taj Pur More</item>
+        <item>Chhawla School</item>
+        <item>Chhawla Village Kangan Heri Road</item>
+        <item>Rishal Vihar</item>
+        <item>Kangan Heri I</item>
+        <item>Harsh Vihar Terminal</item>
+        <item>Gagan Cinema</item>
+        <item>Sunder Nagri</item>
+        <item>Anand Gram</item>
+        <item>Anand Gram Kusht Ashram</item>
+        <item>Tahir Pur</item>
+        <item>DLF More</item>
+        <item>Shalimar Garden Crossing</item>
+        <item>New Seema Puri Depot Cluster</item>
+        <item>Roop Nagar (GT Road)</item>
+        <item>Nangli Puna</item>
+        <item>Bdo Office</item>
+        <item>Palla Crossing</item>
+        <item>Dahisara Border</item>
+        <item>Manglapuri / Palam Village</item>
+        <item>Dwarka Flyover</item>
+        <item>Palam Colony Flyover</item>
+        <item>Indian Oil Station</item>
+        <item>IOL</item>
+        <item>Palam Airport  / IGI Airport T1</item>
+        <item>Palam More</item>
+        <item>NHW 8 Crossing</item>
+        <item>APS Colony NH-8</item>
+        <item>APS Colony / Arjun Path</item>
+        <item>Subroto Park (Arjun Path)</item>
+        <item>Shani Mandir / Vasant Village</item>
+        <item>Swami Malai Mandir</item>
+        <item>R K Puram Sec-5</item>
+        <item>Vasant Vihar Depot</item>
+        <item>Panchsheel Club</item>
+        <item>Sadhna Enclave</item>
+        <item>North Point (Nursing Home)</item>
+        <item>Swami Nagar</item>
+        <item>Masjid Moth</item>
+        <item>Savitri Cinema</item>
+        <item>OS Communications</item>
+        <item>Pumposh Enclave</item>
+        <item>Nehru Place Terminal</item>
+        <item>Sec A 5 Crossing Narela</item>
+        <item>Madanpur Dabas</item>
+        <item>Rani Khera Depot 1</item>
+        <item>New Delhi Railway Station Gate 2</item>
+        <item>Chhawla Village</item>
+        <item>Sumesh Vihar</item>
+        <item>BSF Camp Chhawla</item>
+        <item>BSF Campus Chhawla</item>
+        <item>Toll Tax Post</item>
+        <item>Bamnoli Power Station</item>
+        <item>Bamnoli Crossing</item>
+        <item>Bijwasan Railway Station</item>
+        <item>Palam Vihar Crossing</item>
+        <item>Shri Golok Dham Bijwasan School</item>
+        <item>Palam Vihar More</item>
+        <item>Kapashera Village Bijwasan Road</item>
+        <item>Kapashera More</item>
+        <item>Uppal Hotel</item>
+        <item>Shiv Murti (NH-8)</item>
+        <item>Rang Puri (NH-8 Circle)</item>
+        <item>Mahipal Pur (NH-8)</item>
+        <item>Shankar Vihar NH-8</item>
+        <item>APS Colony/ Jharera Gaon</item>
+        <item>Air Force HQ / Subroto Park</item>
+        <item>Maharana Pratap Chowk</item>
+        <item>RR Hospital</item>
+        <item>Air Force Officers Flats Dhaula Kuan</item>
+        <item>Budha Jayanti Park</item>
+        <item>R Block Rajinder Nagar</item>
+        <item>Ridge Road</item>
+        <item>CPRTI/ Delhi Jal Board</item>
+        <item>Ravinder Rangshala</item>
+        <item>Karol Bagh Gurgaon Stand</item>
+        <item>Kamla Market / Ajmeri Gate</item>
+        <item>Rajender Nagar</item>
+        <item>Shankar Road</item>
+        <item>New Rajender Nagar</item>
+        <item>Upper Ridge Road</item>
+        <item>Talkatora Stadium</item>
+        <item>RML Hospital</item>
+        <item>NDPO</item>
+        <item>Gurudwara Bangla Sahib</item>
+        <item>Hanuman Mandir / Shivaji Stadium</item>
+        <item>Statesman House</item>
+        <item>Barakhamba Metro Station</item>
+        <item>Modern School</item>
+        <item>Laxmi Nagar Metro Station</item>
+        <item>Nirman Vihar Metro Station</item>
+        <item>Sawarthya Vihar</item>
+        <item>KarKarDooma Crossing</item>
+        <item>Hassanpur Depot</item>
+        <item>Hassanpur Village</item>
+        <item>TELCO Gazipur</item>
+        <item>Gazipur Depot</item>
+        <item>Air Force Station</item>
+        <item>Tughlaqabad Village</item>
+        <item>Kaya Maya Hospital</item>
+        <item>MB Road</item>
+        <item>Bawana Village</item>
+        <item>Bawana Depot</item>
+        <item>PS Bawana</item>
+        <item>Dariyapur Kalan School Bawana</item>
+        <item>Nangal Thakran</item>
+        <item>Bajitpur Village</item>
+        <item>Bajitpur Mandir</item>
+        <item>Katewara Village</item>
+        <item>Katewara School</item>
+        <item>Jat Khor Crossing</item>
+        <item>Jonti Enclave</item>
+        <item>Garhi Randhala</item>
+        <item>Nizampur Village</item>
+        <item>Vanasthali Public School</item>
+        <item>Agrasen Vriddh Ashram</item>
+        <item>Savda Village</item>
+        <item>Ghevra Crossing / Ghevra Metro Station</item>
+        <item>Hiran Kudna Crossing</item>
+        <item>Mile Stone Factory</item>
+        <item>Shiv Shanker Dharam Kata</item>
+        <item>Mundka Village (Metro Station)</item>
+        <item>Mundka Village Crossing</item>
+        <item>Swarn Park</item>
+        <item>Rajdhani Park</item>
+        <item>Qamruddin Nagar Terminal</item>
+        <item>Jai Vihar</item>
+        <item>AirForce Station (BaniCamp)</item>
+        <item>Baprola School</item>
+        <item>Baprola Village</item>
+        <item>BakkarWala Crossing</item>
+        <item>Chanchal Park</item>
+        <item>Kotla Vihar Phase II</item>
+        <item>TilangPur Kotla</item>
+        <item>BrahmPuri Colony</item>
+        <item>PS Ranhola</item>
+        <item>Ranhola II</item>
+        <item>Ranhola Village</item>
+        <item>Ranhola Extension</item>
+        <item>Rishal Garden</item>
+        <item>Nilothi Crossing</item>
+        <item>ShivRam Park</item>
+        <item>Narain DharamKanta</item>
+        <item>Aman Puri</item>
+        <item>Kamruddin Nagar</item>
+        <item>Nangloi Post Office</item>
+        <item>Nangloi</item>
+        <item>Sultan Puri Crossing/Nangloi</item>
+        <item>Maha Raja Surajmal Stadium</item>
+        <item>Nangloi bus stand</item>
+        <item>Inder Enclave</item>
+        <item>Udyog Nagar</item>
+        <item>Peera Garhi Metro Station</item>
+        <item>Peera Garhi Chowk</item>
+        <item>B-Block Mangolpuri</item>
+        <item>Q Block Mangolpuri</item>
+        <item>Mundhela School II</item>
+        <item>Mundhela Kalan Village</item>
+        <item>Mundhela Kalan School</item>
+        <item>Mundhela Kalan Crossing</item>
+        <item>Mata Daan Kaur School</item>
+        <item>Dariyapur Village / Malikpur Crossing</item>
+        <item>Ghuman Hera DTC Depot Crossing</item>
+        <item>Ghuman Hera Village Main Road</item>
+        <item>Khera Village 1</item>
+        <item>Ber Sarai</item>
+        <item>School Of Physical Science</item>
+        <item>FAI</item>
+        <item>Sanskrit Vidyapeeth</item>
+        <item>Katwaria Sarai</item>
+        <item>NCERT</item>
+        <item>Safdurjung Terminal</item>
+        <item>Vikas Sadan</item>
+        <item>AIIMS Ring Road</item>
+        <item>South Extension</item>
+        <item>Maharani Bagh</item>
+        <item>Bala Sahib Gurudwara</item>
+        <item>Sarai Kale Khan ISBT</item>
+        <item>Nizamuddin Road Bridge / CPWD Office</item>
+        <item>Khel Gaon CWG Village</item>
+        <item>Akshardham Temple / Pusta Crossing</item>
+        <item>Samaspur Jagir Village / Pandav Nagar</item>
+        <item>Sanjay Lake Trilokpuri</item>
+        <item>East Vinod Nagar (NH24)</item>
+        <item>Khichdipur</item>
+        <item>Gazipur NH-24 Crossing</item>
+        <item>Gazipur Village</item>
+        <item>Mundka School</item>
+        <item>Nangloi JJ Colony Lokesh Cinema</item>
+        <item>Nangloi Metro Station</item>
+        <item>Paschim Vihar (Super market)</item>
+        <item>Multan Nagar</item>
+        <item>New Multan Nagar</item>
+        <item>Ordinance Depot</item>
+        <item>Madipur JJ Colony</item>
+        <item>Madipur Village</item>
+        <item>SPM College</item>
+        <item>Agarsen Hospital</item>
+        <item>Punjabi Bagh</item>
+        <item>Shakurpur village/Shiv Mandir</item>
+        <item>Netaji Subash Place/Wazirpur Depot</item>
+        <item>Prem Bari Pull</item>
+        <item>Shalimar Bagh</item>
+        <item>High Court</item>
+        <item>Art Gallery</item>
+        <item>Baroda House</item>
+        <item>Bhartiya Vidya Bhawan</item>
+        <item>Max Muller Bhawan</item>
+        <item>Scindia House</item>
+        <item>NPL Colony</item>
+        <item>R-Block Rajendra Nagar</item>
+        <item>Janak Vihar</item>
+        <item>Pusa Quarters</item>
+        <item>NASC Dasghara</item>
+        <item>Todapur Village</item>
+        <item>Monitoring  and  Receiving Station</item>
+        <item>Inderpuri A-Block</item>
+        <item>Inder Puri JJ Colony</item>
+        <item>Inder Puri (Krishi Kunj)</item>
+        <item>Mayapuri Depot Crossing</item>
+        <item>BE Block Hari Nagar / ESI Dispensary</item>
+        <item>Maya Enclave</item>
+        <item>Raghu Nagar (Janak Puri)</item>
+        <item>Peeli Kothi</item>
+        <item>Tees Hazari Animal Hospital Mori Gate</item>
+        <item>Avtar Enclave / New Multan Nagar</item>
+        <item>Paschim Vihar Market</item>
+        <item>Jwala Puri / Nangloi Depot</item>
+        <item>Surajmal Stadium</item>
+        <item>Sultanpuri Crossing</item>
+        <item>18-Block Lodhi Colony</item>
+        <item>Lodhi Estate / Air Force School</item>
+        <item>JLN Stadium / Sunehri Pulla Depot</item>
+        <item>Defence Colony (Lajpat Nagar Mtr Stn)</item>
+        <item>Central School (KV)</item>
+        <item>Lady Shri Ram College</item>
+        <item>Kailash Colony</item>
+        <item>Sant Nagar</item>
+        <item>Nehru Place</item>
+        <item>Ram Puri Gali No 13</item>
+        <item>Govindpuri Extn Gali No. 16</item>
+        <item>DDA Market Kalkaji</item>
+        <item>DDA Flats KalkaJi</item>
+        <item>Tara Apartment</item>
+        <item>Guru Ravi Das Ashram / Tughlaqabad Extension</item>
+        <item>Jamia Hamdard Library</item>
+        <item>Majeedia Hospital</item>
+        <item>Moti Nagar</item>
+        <item>Moti Nagar Market</item>
+        <item>Kirti Nagar</item>
+        <item>Basai Darapur / Ramesh Nagar</item>
+        <item>Bali Nagar</item>
+        <item>Raja Garden</item>
+        <item>Rajouri Garden</item>
+        <item>Tagore Garden</item>
+        <item>Tagore Garden Metro Station / Tatarpur</item>
+        <item>Subhash Nagar Crossing / Mukherji Park</item>
+        <item>Meenakshi Garden</item>
+        <item>Sant Pura Tilak Nagar</item>
+        <item>11 Murti</item>
+        <item>YMCA / Palika Kendra</item>
+        <item>Tughlaqabad Extension</item>
+        <item>DDA Kalkaji Extension</item>
+        <item>CRPF Camp Okhla Phase 1</item>
+        <item>Sunehari Pulla Depot / Jawahar Lal Nehru Stadium Terminal</item>
+        <item>Unani Hospital / Okhla Ext Thokar 3</item>
+        <item>Nai Basti</item>
+        <item>Ansari Health Care</item>
+        <item>Jamiya Millia College</item>
+        <item>Holy Family Hospital</item>
+        <item>Bharat Nagar Crossing</item>
+        <item>Bharat Nagar</item>
+        <item>Kalyan Vihar Terminal</item>
+        <item>Singhola Crossing</item>
+        <item>Singhola Village GT Road</item>
+        <item>Singhu Village Crossing</item>
+        <item>Singhu Border GT Road</item>
+        <item>Gurudwara Nanak Nirankari Dera Sant Baba Resham Singh Ji</item>
+        <item>Radha Swami Satsang Narela</item>
+        <item>Police Colony Narela</item>
+        <item>Sec A 5 and 8 Narela Desu Colony</item>
+        <item>Kanya Gurukul Narela</item>
+        <item>Narela A7 Raja Harish Chandra Hospital</item>
+        <item>Bankner Crossing</item>
+        <item>New Basti Bankner</item>
+        <item>Bankner Village</item>
+        <item>Sarvodaya Vidyalaya Bankner</item>
+        <item>Lampur School</item>
+        <item>Lampur Village</item>
+        <item>Lampur Border</item>
+        <item>Maharaj Pur Check Post</item>
+        <item>Hasanpur Depot</item>
+        <item>JagatpuriF-Block</item>
+        <item>Jagatpuri A Block</item>
+        <item>East Krishna Nagar</item>
+        <item>Nirankari Sarovar Burari Xing</item>
+        <item>Burari Transport Authourity</item>
+        <item>Jharoda Dairy Xing</item>
+        <item>Chetan Bihari Mandir Sant Nagar</item>
+        <item>Kaushik Enclave</item>
+        <item>Amrit Vihar</item>
+        <item>Natthupura</item>
+        <item>Okhla Village</item>
+        <item>Batla House</item>
+        <item>Marina</item>
+        <item>New Delhi Railway Station Gate 1</item>
+        <item>Police Station Paharganj</item>
+        <item>Jhandewalan</item>
+        <item>Karol Bagh Terminal</item>
+        <item>Faiz Road</item>
+        <item>ESI Dispensary/CGHS Dispensary</item>
+        <item>Palam Gaon Crossing</item>
+        <item>Dwarka Flyover Palam Village</item>
+        <item>More Lines</item>
+        <item>Blood Bank</item>
+        <item>Kendriya Vidhyalaya</item>
+        <item>Geeta Ashram</item>
+        <item>Sadar Bazar</item>
+        <item>Chhawni Hospital</item>
+        <item>Kabul Line</item>
+        <item>Shastri Bazar</item>
+        <item>Sri Nagesh Garden</item>
+        <item>St. Martin School</item>
+        <item>Patel Chowk</item>
+        <item>Le Meridian Hotel</item>
+        <item>Kasturba Gandhi Crossing</item>
+        <item>Delhi Gate / Ambedkar Stadium Terminal</item>
+        <item>ITO Ring Road</item>
+        <item>Delhi Sachivalaya (Rajghat Power House)</item>
+        <item>Shikar Pur Village</item>
+        <item>Sarvodya School Daulat Pur</item>
+        <item>Shikar Pur Crossing</item>
+        <item>Gurudwara Rakab Ganj</item>
+        <item>RR Hospital / Maharana Pratap Chowk</item>
+        <item>Shankar Vihar/ National Highway 8</item>
+        <item>Mahipal Pur Crossing NH-8</item>
+        <item>Rang Puri (NH-8)</item>
+        <item>Shiv Murti</item>
+        <item>Rajokari Crossing NH-8</item>
+        <item>Shiv Murti / Dwarka More</item>
+        <item>South Extn Kotla Petrol Pump</item>
+        <item>SJ Hospital Ring Road</item>
+        <item>Nauroji Nagar</item>
+        <item>Hyatt Hotel (GAIL)</item>
+        <item>RK Puram Sec-12</item>
+        <item>Moti Bagh Gurudawara Nanakpura</item>
+        <item>ARSD College (Dhaula Kuan)</item>
+        <item>Brar Square</item>
+        <item>Nangal Raya Lajwanti Garden</item>
+        <item>D Block Janak Puri (Pankha Road)</item>
+        <item>Rawta Village</item>
+        <item>Jhuljhuli Crossing</item>
+        <item>Mitraon Village (Kair Village Road)</item>
+        <item>Bhagini Nivedita College</item>
+        <item>Shahdara Border Seemapuri Road</item>
+        <item>J and  K Pocket Dilshad Garden</item>
+        <item>Seemapuri Old J / K</item>
+        <item>Dilshad Garden Depot Cluster</item>
+        <item>Shalimar Garden More</item>
+        <item>Gagan Cinema (Wazirabad Road)</item>
+        <item>Bank Colony</item>
+        <item>Nand Nagri Depot</item>
+        <item>Ashok Nagar / Meet Nagar</item>
+        <item>MIG Flates Loni Road</item>
+        <item>MIG Flats Loni Road</item>
+        <item>PS Jyoti Nagar / LIG Flats Loni Road</item>
+        <item>Jyoti Nagar</item>
+        <item>Jyoti Nagar / Durga Puri</item>
+        <item>Chhajjupur</item>
+        <item>Shiv Mandir</item>
+        <item>Babar Pur Ext Terminal</item>
+        <item>Vijay Park / Kabir Nagar</item>
+        <item>Krishna Marg Kardam Puri</item>
+        <item>C4 Yamuna Vihar Crossing</item>
+        <item>Gokul Puri</item>
+        <item>Nand Nagari E-Block</item>
+        <item>Nand Nagari Terminal</item>
+        <item>Kailash Bhawan</item>
+        <item>Max Mueller Bhawan</item>
+        <item>Mata Mandir New Friends Colony</item>
+        <item>OS Communication / Masjid Moth</item>
+        <item>North Paint Nursing Home</item>
+        <item>Panchsheel Enclave</item>
+        <item>Panchsheel Club (Sarv Priya Vihar)</item>
+        <item>Raj Nagar</item>
+        <item>AB Block Sarojini Nagar</item>
+        <item>PS Sarojini Nagar</item>
+        <item>Sarojini Nagar Market</item>
+        <item>Enquiry Office Pilanji Village</item>
+        <item>Laxmi Bai Nagar</item>
+        <item>Jaffar Pur Kalan</item>
+        <item>Vikas Puri Crossing</item>
+        <item>Janak Puri  District Centre</item>
+        <item>Janakpuri East Nangli Zalib</item>
+        <item>Tilak Nagar Crossing</item>
+        <item>Sapera Basti Crossing</item>
+        <item>Mayur Vihar Ph-III</item>
+        <item>Mayur vihar Phase-III Crossing</item>
+        <item>Ganpati Mandir</item>
+        <item>Kalyan Puri Crossing</item>
+        <item>Lal Bahadur Shashtri Hospital</item>
+        <item>Kalyan Vas</item>
+        <item>Mayur Vihar Phase 2 (T)</item>
+        <item>Govt Model School / Ambedkar Park</item>
+        <item>Dharma Apartment</item>
+        <item>Shakar Pur School Block</item>
+        <item>IG Stadium</item>
+        <item>Campa Cola</item>
+        <item>DCM Chemical</item>
+        <item>Zakhira</item>
+        <item>Inderlok</item>
+        <item>Roop Nagar / Kamla Nagar</item>
+        <item>Banglow Road / Police Station Roop Nagar</item>
+        <item>Maurice Nagar II</item>
+        <item>Doulat Ram College</item>
+        <item>Shri Ram College</item>
+        <item>Patel Chest</item>
+        <item>Khalsa College</item>
+        <item>Lucknow Road</item>
+        <item>INMAS</item>
+        <item>CGHC Dispensary</item>
+        <item>Gurudwara NanakSar</item>
+        <item>Rajeev Nagar (Wazirabad Road)</item>
+        <item>Bhajanpura (Karawal Nagar Road)</item>
+        <item>Yamuna Vihar Brij Puri</item>
+        <item>B R Ambedkar College (Loni Road Xing)</item>
+        <item>Nand Nagari Depot</item>
+        <item>Gagan Cinema Wazirabad Road</item>
+        <item>Jhilmil Crossing GT Road</item>
+        <item>Mundka Village Metro Station</item>
+        <item>Mundka Industrial Area / Shiv Shankar Dharamkanta</item>
+        <item>Dariyapur Kalan School</item>
+        <item>Bawana School</item>
+        <item>Aditi College Bawana</item>
+        <item>DSIDC Bawana/ Dhakewala</item>
+        <item>Maharishi Valmiki Hospital</item>
+        <item>Poothkhurd Village</item>
+        <item>Sultan Pur Crossing / Poothkhurd</item>
+        <item>Poothkhurd Firni Road</item>
+        <item>Barwala Village</item>
+        <item>Barwala School</item>
+        <item>Jain Colony</item>
+        <item>Prehladpur School</item>
+        <item>Prehladpur Village</item>
+        <item>Prehladpur Crossing</item>
+        <item>Rohini Sec 27 and 30 Crossing</item>
+        <item>Shahbad Dairy</item>
+        <item>Shahbad Dairy A Block</item>
+        <item>St. Xavier School Shahbad</item>
+        <item>Shahbad Daulatpur School</item>
+        <item>Shahbad Daulatpur Gaon</item>
+        <item>Delhi Engg College Shahbad</item>
+        <item>Rohini Sec-16 Xing</item>
+        <item>Shri Krishna Apartments</item>
+        <item>Rohini DTC Depot 4</item>
+        <item>Rohini Sec 18 B-7 Road</item>
+        <item>Rohini Sec 18 Pocket A</item>
+        <item>Rohini Sec 18 B Block</item>
+        <item>Badli Crossing</item>
+        <item>Haiderpur Metro Station</item>
+        <item>Exchange Store (Hill Road)</item>
+        <item>PNB STA Road</item>
+        <item>Rajpur Road Transport Deptt</item>
+        <item>MCD Store (Rajpur Road)</item>
+        <item>Aruna Asaf Ali Hospital</item>
+        <item>Novelty Cinema</item>
+        <item>KarKarDooma Court</item>
+        <item>Suraj Mal Vihar</item>
+        <item>Satyam Enclave / Jhilmil DDA Flats</item>
+        <item>PS Vivek Vihar</item>
+        <item>Vivekanand Mahila College</item>
+        <item>Vivek Vihar Terminal</item>
+        <item>Vivek Vihar ITI</item>
+        <item>Girls School Vivek Vihar</item>
+        <item>Surya Nagar</item>
+        <item>Rewla Tajpur Crossing</item>
+        <item>Mata Daan Kaur  School</item>
+        <item>Bangali Colony</item>
+        <item>Rohini Sec 20/21/22 Crossing</item>
+        <item>Rohini Sec 24 Dear Satguru Sewaram Crossing</item>
+        <item>Rohini Depot 1 Sec 6</item>
+        <item>Rohini Sec-9 /7</item>
+        <item>Rohini Sec-9</item>
+        <item>Rohini Sec 7 and 8 Crossing</item>
+        <item>Fire Station Sec-8</item>
+        <item>Pitampura RU-Block</item>
+        <item>Pitampura CD Block (Aggrasen model School)</item>
+        <item>Netaji Subhash Palace (Wazirpur Depot) Road No 41</item>
+        <item>Wazirpur Depot</item>
+        <item>Britannia</item>
+        <item>Shakurpur/Shiv mandir</item>
+        <item>Gole Market (Bhai Veer Singh Marg)</item>
+        <item>Gole Market (Sahitya Sadan)</item>
+        <item>Dwarka Sec 22 Cluster Depot</item>
+        <item>Pochan Pur Village</item>
+        <item>Dhool Siras</item>
+        <item>Najafgarh Dhansa More</item>
+        <item>Jai Vihar Block 2</item>
+        <item>Qamruddin Nagar Crossing</item>
+        <item>Nangloi (Najafgarh Road)</item>
+        <item>CPRTI</item>
+        <item>Buddha Jayanti Park</item>
+        <item>APS School Dhaula Kuan</item>
+        <item>Chhawani Hospital</item>
+        <item>Kanjhawala School</item>
+        <item>Maya Enclave BSES Office</item>
+        <item>BE Block Hari Nagar/ESI Dispensary</item>
+        <item>Hastsal JJ Colony</item>
+        <item>Vikas Nagar</item>
+        <item>Hastsal Village LIG Flats</item>
+        <item>C Block Vikas Puri</item>
+        <item>Budhela Village / C Block Vikas Puri</item>
+        <item>Oxford School</item>
+        <item>Gurudwara Vikaspuri</item>
+        <item>M Block Vikaspuri</item>
+        <item>J Block Vikas Puri</item>
+        <item>H-3 Vikas Puri</item>
+        <item>JG 3 Block Vikaspuri</item>
+        <item>Major Bhupinder Singh Marg</item>
+        <item>Keshopur Depot</item>
+        <item>Meera Bagh Apartments</item>
+        <item>Sayed Gaon Nangloi (T)</item>
+        <item>Ambika Vihar</item>
+        <item>Guru Harkishan Nagar</item>
+        <item>Bhairon Enclave</item>
+        <item>Peera Garhi Depot</item>
+        <item>Indra Vihar</item>
+        <item>Mukharji Nagar Xing</item>
+        <item>Batra Cinema</item>
+        <item>Mukherji Nagar Baandh</item>
+        <item>Tihar Jail</item>
+        <item>S O Flats Carriappa Marg/Carriappa Vihar</item>
+        <item>Aradhana Enclave</item>
+        <item>RK Puram Sec 13</item>
+        <item>SJ Hospital</item>
+        <item>Lodhi Garden / Mousam Bhawan</item>
+        <item>Central Workshop II</item>
+        <item>E.S.I. Hospital</item>
+        <item>Okhla Phase 1</item>
+        <item>Indra Kalyan Vihar</item>
+        <item>DDA Kalkaji Extn</item>
+        <item>Tughlaqabad Extn</item>
+        <item>Tara Apartments Terminal</item>
+        <item>Purana Chandrawal</item>
+        <item>Majnu Ka Tilla</item>
+        <item>Majnu Ka Tila Outer Ring Road</item>
+        <item>PWD Office / Aruna Nagar Ring Road</item>
+        <item>Wazirabad Crossing GT Road</item>
+        <item>Gopal Pur / Jagat Pur Crossing</item>
+        <item>Gandhi Vihar</item>
+        <item>Burari Crossing</item>
+        <item>Mukund Pur Crossing</item>
+        <item>Jahangir Puri Outer Ring Road</item>
+        <item>Jag Jivan Ram Hospital</item>
+        <item>Bhalaswa Crossing</item>
+        <item>Mukarba Chowk ORR</item>
+        <item>Haider Pur Water Works</item>
+        <item>West Enclave (ORR)</item>
+        <item>Mangol Puri B Block (ORR)</item>
+        <item>Nangloi Village</item>
+        <item>Khera Village</item>
+        <item>Devta Wala Mandir</item>
+        <item>Amrawati Piyau Galib Pur Road</item>
+        <item>Galib Pur Piyau</item>
+        <item>Galib Pur Village</item>
+        <item>Kerala School</item>
+        <item>Trilok Puri 13 Block</item>
+        <item>Samaspur Jagir Village</item>
+        <item>Akhardham Temple</item>
+        <item>Khel Gaon</item>
+        <item>Maharani Bagh / Ashram</item>
+        <item>Kamal Cinema</item>
+        <item>Green Field School</item>
+        <item>Safdurjang Enclave</item>
+        <item>Mohammadpur Village</item>
+        <item>R K Puram Sec-2</item>
+        <item>R K Puram Sec-3</item>
+        <item>R K Puram Sec 1/4</item>
+        <item>RK Puram Sec-1</item>
+        <item>Ramzan Pur Crossing</item>
+        <item>Mohammad Pur Gaon</item>
+        <item>Kushak Pur Village</item>
+        <item>Hiranki Village</item>
+        <item>Kouria Bridge</item>
+        <item>Rewla Khanpur Village</item>
+        <item>Shalimar Bagh Crossing</item>
+        <item>Qamruddin Nagar</item>
+        <item>Brahmpuri Colony</item>
+        <item>Baprola Vidhyalaya</item>
+        <item>Dwarka Sec 22-23 / ClassicApartments</item>
+        <item>Dwarka Sec 9 Metro Station</item>
+        <item>Dwarka Sec 8 DTC Depot</item>
+        <item>Dwarka Sec-1 Mahalaxmi Apartment</item>
+        <item>SFS Flats Sec-2 Power House</item>
+        <item>Mahaveer Enclave Part II  and  III</item>
+        <item>Vijay Enclave (New Dwarka Road)</item>
+        <item>Dwarka Puri</item>
+        <item>New Dwarka Road / Seetapuri</item>
+        <item>Patel Chowk (Ashoka Road)</item>
+        <item>Kapashera More (Najafgarh Road)</item>
+        <item>Tikri Border</item>
+        <item>Tikri Kalan Village</item>
+        <item>Fire Station Tikri Village</item>
+        <item>Baba Haridass Gitanjali Enclave</item>
+        <item>Uttam Nagar Terminal</item>
+        <item>Bakkargarh Village</item>
+        <item>Bakkarwala Village Crossing</item>
+        <item>Bakkarwala School</item>
+        <item>Chanchal Park Part 1</item>
+        <item>Tilangpur Kotla</item>
+        <item>BakkarWala School Baprola</item>
+        <item>Power House</item>
+        <item>Ram Pura (Ashok Park)</item>
+        <item>Anand Parbat Industrial Area</item>
+        <item>Filmistan</item>
+        <item>DB Gupta Market</item>
+        <item>Thana DB Gupta Road</item>
+        <item>Prahlad Market</item>
+        <item>Kikar Wala Chowk</item>
+        <item>Prasad Nagar</item>
+        <item>F Block Kirti Nagar</item>
+        <item>PS Kirti Nagar</item>
+        <item>Fire Station Kirti Nagar</item>
+        <item>DDA Flats Hari Nagar</item>
+        <item>Janak Puri B-1 Terminal</item>
+        <item>Janakpuri B-2</item>
+        <item>Janak Puri B-3</item>
+        <item>C6 B Janakpuri</item>
+        <item>Kibri Place</item>
+        <item>PS Chankya Puri</item>
+        <item>Teen Murti</item>
+        <item>South Enclave</item>
+        <item>Tyag Raj Marg</item>
+        <item>Sena Bhawan</item>
+        <item>G Block</item>
+        <item>Rail Bhawan Metro Station / Krishi Bhawan</item>
+        <item>Mukhmel Pur Village</item>
+        <item>Zind Pur Village</item>
+        <item>Jheel Terminal</item>
+        <item>Geeta Colony</item>
+        <item>Ramleela Ground Geeta Colony</item>
+        <item>Pandit Park Geeta Colony</item>
+        <item>Shivpuri Colony</item>
+        <item>Rashid Market</item>
+        <item>Khureji Khas</item>
+        <item>East Guru Angad Nagar</item>
+        <item>Radhu Palace</item>
+        <item>District Centre Outer Ring Road</item>
+        <item>Kangra Niketan</item>
+        <item>Krishna Park</item>
+        <item>Manohar Nagar</item>
+        <item>Meera Bagh</item>
+        <item>Sunder Vihar</item>
+        <item>Sunder Apartment</item>
+        <item>Power House Rohini Sec 24</item>
+        <item>Prehlad Vihar (Deep Vihar) Rohini Sec 25</item>
+        <item>Krishna Colony</item>
+        <item>Dhakewala Bawana</item>
+        <item>Dariyapur Gaon</item>
+        <item>Harewali Crossing</item>
+        <item>Harewali Gaon</item>
+        <item>ARSD College / Dhaula Kuan</item>
+        <item>Dhaula Kuan ARSD College</item>
+        <item>Shanti Niketan / RK Puram Sec 9</item>
+        <item>RK Puram Sec-3</item>
+        <item>Safdarjung Enclave</item>
+        <item>Mayur Vihar Phase III Crossing</item>
+        <item>Crown Plaza</item>
+        <item>PS Tughlaq Road</item>
+        <item>PS Parliament / Jantar Mantar</item>
+        <item>Qutub Hotel</item>
+        <item>Vasant Vihar</item>
+        <item>Vasant Village / Shani Mandir</item>
+        <item>Arjun Path / Subroto Park</item>
+        <item>Arjun Path</item>
+        <item>APS Colony</item>
+        <item>Badarpur Village</item>
+        <item>Onida Factory</item>
+        <item>Ali Village</item>
+        <item>Maruti Factory</item>
+        <item>Central School Lodhi Colony</item>
+        <item>Madipur JJ Colony Terminal</item>
+        <item>Sarai Rohilla</item>
+        <item>Dev Nagar</item>
+        <item>Dev Nagar / Khalsa College</item>
+        <item>Delhi Sectt</item>
+        <item>Tajpur Kalan Village</item>
+        <item>Bakhtawarpur Primary School</item>
+        <item>Rajiv Nagar</item>
+        <item>Yamuna Vihar Cluster Depot</item>
+        <item>Shaheed Park (Bhagat Singh Terminal)</item>
+        <item>Krishi Bhawan / Rail Bhawan Metro Station</item>
+        <item>u k high commion</item>
+        <item>British High Comission</item>
+        <item>Sikkim House</item>
+        <item>Gairison Eng.</item>
+        <item>Hyatt Hotel</item>
+        <item>Rojdoot Hotel</item>
+        <item>Shanti Vana</item>
+        <item>Raj Ghat (Ring Road)</item>
+        <item>Palla Village</item>
+        <item>Tuglaqabad MB Road</item>
+        <item>Tughalqabad Village</item>
+        <item>Batra Hospital (Satya Narayan Mandir)</item>
+        <item>Khanpur Extension / Devli Crossing</item>
+        <item>Ambedkar Nagar Terminal / DIPSAR</item>
+        <item>Asian Market</item>
+        <item>Saket Crossing</item>
+        <item>Maidan Garhi Crossing (SDM Court)</item>
+        <item>Saket Metro Sation</item>
+        <item>Saidul-A-Jab</item>
+        <item>Dhaula Peer</item>
+        <item>Dhaula Peer / Lado Sarai</item>
+        <item>Ahinsa Sthal</item>
+        <item>Qutub Minar Metro Sation</item>
+        <item>Andheria Bagh More</item>
+        <item>Andheria Bagh More / Chhatarpur Metro Station</item>
+        <item>Vasant Kunj sec A pkt B/C</item>
+        <item>Vasant Kunj Sec-A ILBS</item>
+        <item>Kishan Garh</item>
+        <item>Vasant Kunj Sec-D/3-4</item>
+        <item>Vasant Kunj sec-B1</item>
+        <item>Masood Pur Village</item>
+        <item>Masood Pur Dairy</item>
+        <item>Kathuria Public School (Sai Darbar Mandir)</item>
+        <item>ISIC Hospital</item>
+        <item>Vasant Kunj Sec-C8</item>
+        <item>Rang Puri Pahari</item>
+        <item>Mahipal Pur</item>
+        <item>Mahipal Pur Village</item>
+        <item>ESI Dispensary</item>
+        <item>Wazir Pur Industrial Area / Ashok Vihar Crossing</item>
+        <item>Ashok Vihar B Block</item>
+        <item>Deep Market Ashok Vihar</item>
+        <item>KD Block Ashok Vihar</item>
+        <item>Ashok Vihar Water Tank</item>
+        <item>IA Block Ashok Vihar</item>
+        <item>Ashok Vihar I Block</item>
+        <item>Wazir Pur JJ Colony</item>
+        <item>Nimri Colony</item>
+        <item>Bharat Nagar Crossing / Sri Nagar Colony</item>
+        <item>Sindhora Kalan</item>
+        <item>Sultanpuri C Block</item>
+        <item>Sultanpuri D Block</item>
+        <item>Jalebi Chowk Sultan Puri AB Block</item>
+        <item>Sultan Puri AB Block Extension</item>
+        <item>Mangol Puri S Block</item>
+        <item>T Block Magol Puri</item>
+        <item>Q-Block Mangolpuri</item>
+        <item>Rajeev Nagar (Signature Bridge)</item>
+        <item>Gurudwara Nanak Sar Crossing (Signature Bridge)</item>
+        <item>Nehru Vihar Xing</item>
+        <item>Mukund Pur Chowk</item>
+        <item>Babarpur Ext / Maujpur Metro Station</item>
+        <item>STA Burari</item>
+        <item>Hardev Nagar / Jharoda Crossing (Burari)</item>
+        <item>Check Post (Burari)</item>
+        <item>Jharoda Village (Burari)</item>
+        <item>Supreme Court / Pragati Maidan Metro Station</item>
+        <item>Pragati Maidan Gate 5</item>
+        <item>Shaheen Bagh Thokar No 5</item>
+        <item>Shaheen Bagh Thokar No 8 (A F Enclave )</item>
+        <item>Okhla Extension (Abul Fazl Encalve)</item>
+        <item>Rani Khera Depot 3</item>
+        <item>Jonti Border</item>
+        <item>Madhuban Chowk Pitampura Metro Stn</item>
+        <item>Pitampura JD Block</item>
+        <item>Vaishali Enclave / Kapil Vihar</item>
+        <item>Kewal Park</item>
+        <item>Shaheen Bagh Thokar No. 8 (AF Enclave)</item>
+        <item>Shaheen Bagh Thokar No. 7</item>
+        <item>Shaheen Bagh Thokar No. 6</item>
+        <item>Shaheen Bagh Thokar No. 5</item>
+        <item>Taimur Nagar</item>
+        <item>Bharthal Village (Shyam Mandir)</item>
+        <item>Bharthal Chowk (Bharthal Road)</item>
+        <item>Transport Department Dwarka</item>
+        <item>Dwarka Sec-21 Metro Station (Road Crossing)</item>
+        <item>R K Puram Sec-8</item>
+        <item>RK Khanna Tennis Stadium</item>
+        <item>Bhikaji Cama Place</item>
+        <item>Africa Avenue</item>
+        <item>Mundka Railway Station</item>
+        <item>Friends Enclave Mundka</item>
+        <item>Mundka School (Rani Khera Road)</item>
+        <item>New Dwarka Road Seetapuri</item>
+        <item>SFS Flat Sec-2 Power House</item>
+        <item>IP Park / Nizamuddin Road Bridge East</item>
+        <item>Ramzan Pur Village</item>
+        <item>Virender Nagar/ Dilli Haat</item>
+        <item>Gamri Ext / Pusta 5</item>
+        <item>Khajuri Pusta</item>
+        <item>Nanaksar Gurudwara Crossing</item>
+        <item>Kalka Ji Crossing</item>
+        <item>Haldiram</item>
+        <item>Rohini Sec 16 (Maharaja Aggarsen Dharam Sthal)</item>
+        <item>Rohini Sec 17A and 16</item>
+        <item>Rohini Sec-11 (Aggarwal Sabha)</item>
+        <item>Rohini Depot-II</item>
+        <item>Dena Apartment</item>
+        <item>Ayodhya Apartments</item>
+        <item>DC Chowk Rohini</item>
+        <item>Rohini Sec 9 A Block</item>
+        <item>Guru Govind Singh Crossing (Faiz Road)</item>
+        <item>Rani Jhansi Road Jhande Walan</item>
+        <item>Laxmi Narayan Temple</item>
+        <item>Kali Bari Marg</item>
+        <item>Tatesar Gurukul</item>
+        <item>Bapa Nagar</item>
+        <item>Jaipur House</item>
+        <item>AkbarRoad</item>
+        <item>Vigyan Bhawan</item>
+        <item>Nirman Bhawan</item>
+        <item>Rama Krishna Ashram Marg</item>
+        <item>Chitra Gupta Road</item>
+        <item>CGHS Dispensary</item>
+        <item>Anand Parvat Terminal</item>
+        <item>Sarai Rohilla Flyover</item>
+        <item>Wazirpur JJ Colony</item>
+        <item>JA Block Ashok Vihar</item>
+        <item>B2 Block Ashok Vihar Ph II</item>
+        <item>Satyawati College Aryabhatt Enclave</item>
+        <item>Sri Krishan Apartments</item>
+        <item>St Xavier School</item>
+        <item>Shahbad Dairy Block A</item>
+        <item>DSIDC Office Bawana</item>
+        <item>Haryana Shakti School Kanjhawala</item>
+        <item>Christian Kabristan</item>
+        <item>DPS / Police Station Nizamuddin(Lodhi Road)</item>
+        <item>Kanjhawala Depot (Narela Road)</item>
+        <item>Tikri Village</item>
+        <item>Khora Colony</item>
+        <item>Rang Puri (Airport Road) / Mahipal Pur Crossing</item>
+        <item>Centaur Hotel</item>
+        <item>Centaur Hotel / New Custom House</item>
+        <item>Cargo / Express Terminal Gate</item>
+        <item>IGI Airport Terminal 2 (Air India Office)</item>
+        <item>Alaknanda Apartment</item>
+        <item>Narmada Apartment</item>
+        <item>Don Basco School</item>
+        <item>S Block Greater Kailash- II</item>
+        <item>Chandan Market Greater Kailash- II</item>
+        <item>M Block Greater Kailash- II</item>
+        <item>E Block Greater Kailash- II</item>
+        <item>Savitri Cinema (E Block Gurudwara)</item>
+        <item>Chirag Dilli</item>
+        <item>Jija Bai Udyogic Sansthan</item>
+        <item>Kamla Nehru College/Niti Bag</item>
+        <item>Uday Park</item>
+        <item>Ayurvigyan Nagar</item>
+        <item>Andrews Ganj Shiv Mandir / Ansal Plaza</item>
+        <item>ISBT Maharana Pratap Bus Terminal</item>
+        <item>ISBT Ring Road</item>
+        <item>Bharthal Village</item>
+        <item>Saiyyad Nagar Dilshad Garden</item>
+        <item>Old Seema Puri</item>
+        <item>JandK Pocket Dilshad Garden</item>
+        <item>Vivek Vihar Girls School</item>
+        <item>Karkardooma Crossing</item>
+        <item>Patiala House</item>
+        <item>Shajahan Road UPSC</item>
+        <item>Humayun Road / Khan Market</item>
+        <item>Sujan Singh Park</item>
+        <item>Bharti Nagar</item>
+        <item>Dayal Singh College</item>
+        <item>Mehrauli Terminal</item>
+        <item>Lado Sarai Crossing</item>
+        <item>Zakhira (Rohtak Road)</item>
+        <item>Jai Dev Park</item>
+        <item>Bakkar Garh Crossing</item>
+        <item>Kazipur Village</item>
+        <item>Issapur Xing</item>
+        <item>AIR Force Station</item>
+        <item>Dhansa Village</item>
+        <item>Dhansa School</item>
+        <item>Dhansa Border (T)</item>
+        <item>New Anaj Mandi Xing</item>
+        <item>Singhu Village</item>
+        <item>Singhu School (T)</item>
+        <item>West Enclave Terminal</item>
+        <item>MTNL Saraswati Vihar</item>
+        <item>Rani Bagh</item>
+        <item>Samrat Enclave</item>
+        <item>Shakur Pur</item>
+        <item>Panchkuian Road</item>
+        <item>Kalawati Hospital</item>
+        <item>Sucheta Kriplani Hospital</item>
+        <item>Press Apartment</item>
+        <item>Saraswati Kunj</item>
+        <item>Ras Vihar</item>
+        <item>Parivar Apartment</item>
+        <item>Vijaya Laxmi Apartment</item>
+        <item>Balco Apartment</item>
+        <item>Himalaya Apartment</item>
+        <item>Neethi Apartment</item>
+        <item>Chandar Vihar</item>
+        <item>Ashirwad Apartment</item>
+        <item>Savda JJ Colony</item>
+        <item>Taj Pur Khurd</item>
+        <item>Goyla Dairy Crossing</item>
+        <item>Ladpur School</item>
+        <item>Old Delhi Railway Station (Terminal)</item>
+        <item>Chhoturam Park Rohini Sec 5</item>
+        <item>Visram Chowk</item>
+        <item>Rohini Sec-3/4 Xing</item>
+        <item>Avantika Sec 1</item>
+        <item>Mangol Puri J Block</item>
+        <item>Mangolpuri K Block (Sanjay Gandhi Hospital)</item>
+        <item>Mangolpuri S Block</item>
+        <item>New Police Lines</item>
+        <item>Azadpur Metro Station</item>
+        <item>Chhawla Village School</item>
+        <item>Pandwala Khurd</item>
+        <item>Pandwala Kalan (T)</item>
+        <item>Bawana Village Narela Road</item>
+        <item>Nangli Poona</item>
+        <item>Delhi Jal Board</item>
+        <item>Choona Factory</item>
+        <item>Kadipur Colony</item>
+        <item>Kadipur Village</item>
+        <item>Kushak Village 1</item>
+        <item>Ibrahimpur Village</item>
+        <item>Deep Vihar</item>
+        <item>Sundar Apartments</item>
+        <item>Meera Bagh Apartment</item>
+        <item>Major Bhupinder Singh Nagar</item>
+        <item>INA Market</item>
+        <item>Ras Vihar Apartment (PS Madhu Vihar)</item>
+        <item>Swatantra Bharat Mills</item>
+        <item>Kirodi Mal College</item>
+        <item>Malka Ganj Terminal</item>
+        <item>Gali Daak Khana</item>
+        <item>Thana Sabji Mandi / Ice Factory</item>
+        <item>Kidwai Nagar (INA Colony)</item>
+        <item>J and K House</item>
+        <item>Humayun Road Khan Mkt Metro Stn</item>
+        <item>Shahjahan Road UPSC</item>
+        <item>Prince Apartment</item>
+        <item>Government Senior Secondary School</item>
+        <item>T Block Mangol Puri</item>
+        <item>Bentex</item>
+        <item>IP College (GT Road)</item>
+        <item>Metcalfe House</item>
+        <item>ISBT Kashmere Gate (ORR)</item>
+        <item>Yamuna Bazaar</item>
+        <item>Vijay Ghat By Pass</item>
+        <item>Geeta Colony Pul</item>
+        <item>Shakti Sthal</item>
+        <item>Vishwa Inter Academy</item>
+        <item>Hamidpur Village</item>
+        <item>DDA Flats Lucknow Road</item>
+        <item>Nehru Vihar Terminal</item>
+        <item>SFS Quarter Gazipur</item>
+        <item>NHW-24 Xing (Gazipur Xing)</item>
+        <item>East Vinod Nagar Depot</item>
+        <item>Ghevra Crossing Rohtak Road</item>
+        <item>Swaroop Nagar JJ Colony</item>
+        <item>AeroCity Metro Station</item>
+        <item>Vasant Village</item>
+        <item>Shanti Niketan / RK Puram Sec 8</item>
+        <item>Sarojini Nagar Depot</item>
+        <item>M Block Sarojini Nagar</item>
+        <item>Chanakya Bhawan</item>
+        <item>Vinay Marg</item>
+        <item>Ashoka Hotel</item>
+        <item>Race Course</item>
+        <item>RK Puram Crossing</item>
+        <item>R K Puram Sec-7</item>
+        <item>R K Puram Sec 8 / 9</item>
+        <item>R K Puram Sec 9</item>
+        <item>Shanti Niketan</item>
+        <item>Daulat Pur Village</item>
+        <item>Pragati Vihar</item>
+        <item>Vasant Lok</item>
+        <item>Vasant Vihar F Block Poorvi Marg</item>
+        <item>Modern School  Vasant Vihar F Block</item>
+        <item>Indian AirLines/Priya Cinema</item>
+        <item>CPWD Colony Vasant Vihar</item>
+        <item>Nangal Raya DDA Market</item>
+        <item>GSKV School No-1 B-Block</item>
+        <item>Inderpuri Krishi Kunj Terminal</item>
+        <item>Inder Puri Krishi Kunj</item>
+        <item>AIR Station</item>
+        <item>R Block Rajendra Nagar</item>
+        <item>N.P.L Colony</item>
+        <item>Tolstoy Marg</item>
+        <item>National Muesum</item>
+        <item>Prithviraj Road Crossing</item>
+        <item>Max Mueller Marg</item>
+        <item>Lodhi Road Crossing</item>
+        <item>Central School (MCKR)</item>
+        <item>Siri Fort Road</item>
+        <item>Krishi Vihar</item>
+        <item>Chirag Delhi</item>
+        <item>Sanjay Colony (Safiabad)</item>
+        <item>Safiabad Border</item>
+        <item>Kair Village</item>
+        <item>Dwarka Sec 8</item>
+        <item>Surehra Village</item>
+        <item>Jantar Mantar (Tolstoy Marg)</item>
+        <item>Tolstoy Marg Barakhamba Crossing</item>
+        <item>Bamnoli More</item>
+        <item>Police Station Tughlaq Road</item>
+        <item>Shani Mandir / Palla Crossing</item>
+        <item>Jawahar Navodya School</item>
+        <item>Mungeshpur Village</item>
+        <item>B.R. International School</item>
+        <item>Auchandi Border</item>
+        <item>Auchandi Village</item>
+        <item>Auchandi Sarvodaya School</item>
+        <item>Tilak Nagar</item>
+        <item>Ghumman Heera Village</item>
+        <item>Jhuljhuli X-Ing</item>
+        <item>Daraula Border</item>
+        <item>Daraula Village</item>
+        <item>Rawta Galibpur Xing</item>
+        <item>Rawta</item>
+        <item>Jhuljhuli Xing</item>
+        <item>Holy Cross School</item>
+        <item>Nazafgarh Health Centre</item>
+        <item>Ekta Apartment Paschim Vihar</item>
+        <item>Paschim Vihar A3 Mother Dairy</item>
+        <item>Paschim Vihar Road No 29</item>
+        <item>Paschim Puri Paschim Vihar</item>
+        <item>Paschim Puri Pkt 2 Mother Dairy</item>
+        <item>Punjabi Bagh Extension</item>
+        <item>Punjabi Bagh Market</item>
+        <item>Syndicate Bank</item>
+        <item>West Avenue Road</item>
+        <item>West Enclave</item>
+        <item>Punjabi Bagh More</item>
+        <item>Janki Devi College</item>
+        <item>Sir Ganga Ram Hospital</item>
+        <item>New Rajinder Nagar Post Office</item>
+        <item>Dwarka More Metro Station (Terminal)</item>
+        <item>Dilshad Garden GT Road (R-212)</item>
+        <item>R Block Dilshad Garden</item>
+        <item>Govt School Dilshad Garden</item>
+        <item>Badli Telephone Exchange</item>
+        <item>Issapur Village Temple</item>
+        <item>Choudhary Mohalla</item>
+        <item>Issapur School</item>
+        <item>Corporation Bank</item>
+        <item>B-3 Keshav Puram</item>
+        <item>Vivek Vihar Ram Mandir</item>
+        <item>D Block Surajmal Vihar</item>
+        <item>Ram Vihar</item>
+        <item>Surya Niketan</item>
+        <item>Jagriti Enclave</item>
+        <item>Saini Enclave</item>
+        <item>Hargovind Enclave</item>
+        <item>Seelam Pur Metro Mall</item>
+        <item>Lodhi Colony Market</item>
+        <item>Jor Bagh</item>
+        <item>Naraina Village (Ring Road)</item>
+        <item>Bakkarwala Crossing</item>
+        <item>Bakkarwala Village</item>
+        <item>Zind Pur Crossing</item>
+        <item>Maya Puri Crossing (Ring Road)</item>
+        <item>Rajdhani College Raja Garden</item>
+        <item>Shakur Pur JJ Colony/ Britannia</item>
+        <item>Rajdhani Enclave / Mahindra Park</item>
+        <item>Mahindra Park Road No-44</item>
+        <item>Road No-44 Crossing</item>
+        <item>Chander Lok</item>
+        <item>Lok Vihar</item>
+        <item>Harsh Vihar</item>
+        <item>DTC Apartments</item>
+        <item>Kapil Vihar</item>
+        <item>Jahangirpuri A-Block</item>
+        <item>Jahangirpuri K Block</item>
+        <item>Jahangirpuri E-Block</item>
+        <item>Kalyan Puri Terminal</item>
+        <item>Samudaya Bhawan Khichripur Village</item>
+        <item>Mother Dairy Crossing</item>
+        <item>Loknayak Puram</item>
+        <item>Tagore Garden (Gurudwara Road)</item>
+        <item>Paprawat Village</item>
+        <item>Suraj Vihar Shani Mandir</item>
+        <item>NSIT (Netaji Subhas Institute)</item>
+        <item>Dwarka Sec 13 / 14</item>
+        <item>Dwarka Sec 3/4</item>
+        <item>Matiyala Crossing</item>
+        <item>Raja Puri</item>
+        <item>Lodhi Hotel</item>
+        <item>Babarpur Ext Maujpur Crossing</item>
+        <item>Zafrabad School</item>
+        <item>Madarsa / Welcome Seelam Pur</item>
+        <item>Zafrabad</item>
+        <item>Seelampur Market Zafrabad Road</item>
+        <item>Shreshtha Vihar</item>
+        <item>Yojana Vihar</item>
+        <item>Yamuna Sports Complex</item>
+        <item>Inderpuri (Krishi Kunj)</item>
+        <item>Rohini Sec-15 E-2</item>
+        <item>Haider Pur Village</item>
+        <item>Shalimar Bagh Desu Colony</item>
+        <item>Shalimar Bagh BH Block</item>
+        <item>Shalimar Bagh BJ Block</item>
+        <item>Shalimar Bagh BA Block</item>
+        <item>Shalimar Bagh AE Block</item>
+        <item>Shalimar Bagh A Block</item>
+        <item>Lodhi Garden</item>
+        <item>Ghoga Village</item>
+        <item>Khera Khurd School</item>
+        <item>Kangan Heri - I</item>
+        <item>Ghevra Crossing (Neelwal Road)</item>
+        <item>Digambar Jain Mandir</item>
+        <item>Vaishno Mata Mandir</item>
+        <item>Neelwal Village</item>
+        <item>Mithla Apartment Chandar Vihar</item>
+        <item>Eastern Court</item>
+        <item>RajGhat Ring Road</item>
+        <item>Vijay Ghat</item>
+        <item>Hanuman Mandir / Yamuna Bazar</item>
+        <item>Metcalf House</item>
+        <item>Dilshad Garden School</item>
+        <item>Khanpur Ambedkar Nagar</item>
+        <item>Hauz Rani</item>
+        <item>Saket A block(Malviya Nagar Metro Station)</item>
+        <item>PS Sabzi Mandi / Ice Factory</item>
+        <item>Hansraj College</item>
+        <item>Prashant Vihar F-Block</item>
+        <item>Sai Apartment</item>
+        <item>Anubhav Apartment</item>
+        <item>Vidya Marg Crossing</item>
+        <item>Alok Kunj</item>
+        <item>Manav Chowk</item>
+        <item>D2 Rohini Sec 15</item>
+        <item>District Park Sec-16 Rohini</item>
+        <item>Rohini Sec-16 Pocket-I</item>
+        <item>Kamla Nagar/ Roop Nagar</item>
+        <item>H-3 Vikas Puri Terminal</item>
+        <item>Vikaspuri J-Block</item>
+        <item>Budhela Village</item>
+        <item>C Block Vikaspuri</item>
+        <item>Police Station Vikaspuri</item>
+        <item>Khajuri Circle</item>
+        <item>Khajuri School</item>
+        <item>Bihari Pur Gaon</item>
+        <item>Titiksha Public School</item>
+        <item>Sabhapur Crossing</item>
+        <item>Shaheed Bhagat Singh Colony Karawal Nagar</item>
+        <item>Bheroan Enclave</item>
+        <item>Geeta Colony Block 5</item>
+        <item>St. Lawrence School</item>
+        <item>SDM Office Bank Enclave</item>
+        <item>Bank Enclave Kishan Kunj</item>
+        <item>Ramesh Park</item>
+        <item>Lalita Park</item>
+        <item>Kali Bari Marg Crossing</item>
+        <item>National Highway 24 Crossing</item>
+        <item>Gazi Pur DDA Flats</item>
+        <item>Gazipur Dairy Farm</item>
+        <item>Kalyan Puri Crossing (Ghazipur Road)</item>
+        <item>Madi Pur JJ Colony</item>
+        <item>Akbar Road</item>
+        <item>Ravindra Nagar</item>
+        <item>Aaga Khan Hall</item>
+        <item>Pragati Maidan (Bhairon Marg)</item>
+        <item>Wazirabad Village (Burari)</item>
+        <item>PTS (Geetanjali Enclave)</item>
+        <item>Sukhdev Vihar</item>
+        <item>Dichau Kalan School</item>
+        <item>Dichau Village</item>
+        <item>Shiv Enclave Dichau</item>
+        <item>Vikaspuri Xing</item>
+        <item>PS Vikas Puri</item>
+        <item>B-2 Narela E Block</item>
+        <item>Singhola Village</item>
+        <item>West Enclave / Sansad Vihar (T)</item>
+        <item>Pochan Pur Village Dwarka Sec 23</item>
+        <item>Radha Swami Satsang Sec-23 Dwarka</item>
+        <item>Dwarka Sec-23 Crossing</item>
+        <item>Dwarka Sec-23B Crossing</item>
+        <item>Tagore Garden Metro Station</item>
+        <item>Majlis Park Metro Station</item>
+        <item>Kashmere Gate City Bus Terminal</item>
+        <item>GGS Indraprastha University Kashmere Gate</item>
+        <item>IP College (Ring Road)</item>
+        <item>B R International School</item>
+        <item>Mungesh Pur Village</item>
+        <item>Katewra Crossing</item>
+        <item>Tagore Garden Gurudwara / Holy Child School</item>
+        <item>Raghubir Nagar F Block</item>
+        <item>Babarpur Ext / Maujpur Crossing</item>
+        <item>Maujpur Metro Station</item>
+        <item>Malik Pur Village</item>
+        <item>Sungar Pur</item>
+        <item>Tiggi Pur Village</item>
+        <item>Sultan Puri AB Block</item>
+        <item>CRPF Camp Keshopur</item>
+        <item>AIR Force Camp</item>
+        <item>Shahdara Railway Bridge</item>
+        <item>B-4 Pocket 6 Narela</item>
+        <item>B-4 Police Colony Narela</item>
+        <item>Bhalaswa Village Crossing</item>
+        <item>C-D Block Jahangir Puri</item>
+        <item>Jahangirpuri B Block</item>
+        <item>Kalyanpuri Crossing (Ghazipur Road)</item>
+        <item>Gazi Pur Dairy Farm</item>
+        <item>Rohini Sec 17A</item>
+        <item>Prembari Pul</item>
+        <item>Fire Station Rohini Sec 8</item>
+        <item>Rohini Sec 35</item>
+        <item>ISBT Anand Vihar</item>
+        <item>E Block Jahangir Puri Terminal</item>
+        <item>Maya Puri Crossing Ring Road</item>
+        <item>Jai Mata Market Tri Nagar Terminal</item>
+        <item>A-1 Keshav Puram</item>
+        <item>C-2 Keshav Puram</item>
+        <item>C-4 Keshav Puram</item>
+        <item>C-8 Keshav Puram</item>
+        <item>Shanti Nagar / Tri Nagar</item>
+        <item>Mahipal Pur Crossing / Ext</item>
+        <item>SecE-2 Pkt 12 Vasant Kunj</item>
+        <item>Kathuria Public School/Vasant Kunj D-7</item>
+        <item>Vasant Kunj Sec-A</item>
+        <item>Vasant Kunj Sec-A  Pkt - B/C</item>
+        <item>Andheria More / Chhatarpur Metro Station</item>
+        <item>Lado Sarai Crossing (Aurobindo Marg)</item>
+        <item>Kangan Heri - II</item>
+        <item>Badu sarai Village</item>
+        <item>Nanak Heri School</item>
+        <item>Nanak Heri Village</item>
+        <item>Rithala Crossing (Rohini Sec 6 Crossing)</item>
+        <item>B-5 Rohini Som Bazar</item>
+        <item>Rithala School</item>
+        <item>Neelwal Crossing</item>
+        <item>Neelwal Village 2</item>
+        <item>Punjabi Bagh East</item>
+        <item>Holy Child School</item>
+        <item>Raja Garden (Ring Road)</item>
+        <item>Ramjas College / Mourice Nagar 2</item>
+        <item>Indian AirLine Colony/Priya Cinema</item>
+        <item>Modern School Vasant Vihar F Block</item>
+        <item>P.Vihar Power Houe</item>
+        <item>B Block Prashant Vihar</item>
+        <item>Raja Pur (Prashant Vihar)</item>
+        <item>Rohini Sec 22 Terminal</item>
+        <item>Aggarsain Hospital (Rohini Sec 22)</item>
+        <item>Rithala Crossing</item>
+        <item>Mauj Pur</item>
+        <item>Bakkargarh Border</item>
+        <item>Bhai Parmanand Colony</item>
+        <item>Mukharji Nagar Tank</item>
+        <item>Keshav Mahavidhyalaya</item>
+        <item>MTNL Saraswati Vihar / Aayuddh Bhandar</item>
+        <item>Badu Sarai Village</item>
+        <item>Pratibha School Rohini Sec 9</item>
+        <item>Aayudh Bhandar</item>
+        <item>Gopal Nagar</item>
+        <item>A Block Gopal Nagar</item>
+        <item>Saraswati Enclave</item>
+        <item>CRPF Jharoda Crossing</item>
+        <item>Surakh Pur Village</item>
+        <item>Lajpat Nagar</item>
+        <item>Delhi Jal Board Lajpat Nagar</item>
+        <item>Jal Vihar Terminal</item>
+        <item>Dwarka Sec 19-20 Crossing</item>
+        <item>DDA Booster Pump Station</item>
+        <item>Social Works School</item>
+        <item>Delhi University</item>
+        <item>Ramjas College</item>
+        <item>Nanak Piyau / DTC Colony</item>
+        <item>B4 Police Colony Narela</item>
+        <item>Hansraj College / Malka Ganj</item>
+        <item>Shri Ram Institute</item>
+        <item>Social works school</item>
+        <item>NTPC</item>
+        <item>Gandhi Vihar Crossing</item>
+        <item>T Point Narela Road</item>
+        <item>Nehru Place Apartments</item>
+        <item>South Park Appartments CR Park</item>
+        <item>Desh Bandhu Gupta College</item>
+        <item>Rampuri Gali No-13</item>
+        <item>Pochhan Pur Village Crossing</item>
+        <item>Ashok Vihar Pocket 3</item>
+        <item>Laxmi Bai College</item>
+        <item>Dauralla Village</item>
+        <item>DTC Rajghat Depot</item>
+        <item>Goodwill Apartment</item>
+        <item>Rohini Sec 3/4/5/6 Xing (Vishram Chowk)</item>
+        <item>Rohini Sec 5 (Chhotu Ram Park)</item>
+        <item>Dwarka Sec 21 Crossing Bharthal Chowk</item>
+        <item>Wazir Pur Industrial Area/ Ashok Vihar Crossing</item>
+        <item>Saket M Block</item>
+        <item>Saket Terminal</item>
+        <item>Saket J Block</item>
+        <item>DIPSAR College of Pharmacy</item>
+        <item>Sunehari Pulla Depot / Jawaharlal  Nehru Stadium Terminal</item>
+        <item>NHW 24 Gazipur Crossing</item>
+        <item>Royal Garden Hiran Kudna Village</item>
+        <item>Hiran Kudna Village</item>
+        <item>Hiran Kudna Shiv Mandir</item>
+        <item>Air Force Camp Hiran Kudna Village</item>
+        <item>RK Puram Sec-12(Sangam Cinema)</item>
+        <item>K Block Baba Ramdev Mandir</item>
+        <item>Netraheen School</item>
+        <item>Raghubir Nagar N Block</item>
+        <item>Raghubir Nagar Gurudwara A Block</item>
+        <item>Tagore Garden D Block</item>
+        <item>North Avenue</item>
+        <item>Paschim Puri Chowk Pkt 2</item>
+        <item>Paschim Puri Road No 29</item>
+        <item>Paschim Vihar Pocket BG1</item>
+        <item>Paschim Vihar A3</item>
+        <item>Natthupura Crossing</item>
+        <item>L Block Gurudwara Kalkaji</item>
+        <item>Desh Bandhu College</item>
+        <item>Kalkaji B-Block</item>
+        <item>DPS / Police Station Nizamuddin (Lodhi Road)</item>
+        <item>Govt Press Kali Mandir</item>
+        <item>DDU Marg Railway Colony</item>
+        <item>Govt Sr Sec School DDU Marg</item>
+        <item>Mata Sundari Mor Woman Court DDU Marg</item>
+        <item>Bal Bhawan DDU Marg</item>
+        <item>ISBT Anand Vihar Terminal</item>
+        <item>NDPO (Kharak Singh Marg)</item>
+        <item>Dr RML Hospital (Kharak Singh Marg)</item>
+        <item>Rohini Sec 15</item>
+        <item>Anandlok</item>
+        <item>Kalma Nehru College</item>
+        <item>Khel Gaon / Siri Fort Road</item>
+        <item>Shahpur Jat</item>
+        <item>Don Bosco School</item>
+        <item>Narmada Apartments</item>
+        <item>Alaknanda Apartments</item>
+        <item>Rohini Sec 23</item>
+        <item>Poothkalan More</item>
+        <item>Police Station Begumpur</item>
+        <item>Khayala Colony Terminal</item>
+        <item>Chand Nagar</item>
+        <item>Khayala More/ Subhash Nagar Crossing</item>
+        <item>Punjab Kesari</item>
+        <item>Ghuman Hera Crossing</item>
+        <item>Kanya Sarvodya School Shikar Pur</item>
+        <item>Delhi Police Training School</item>
+        <item>Lado Sarai</item>
+        <item>Dhaula Peer Lado Sarai</item>
+        <item>Saidul-A-Jab / Saket Metro Station</item>
+        <item>Maruti</item>
+        <item>Yojana Vihar/ Yamuna Sports Complex</item>
+        <item>Wazirabad Crossing Nehru Vihar Crossing</item>
+        <item>Kalkaji Extension Pocket A-13</item>
+        <item>B Block Mangol Puri</item>
+        <item>E Block Mangol Puri</item>
+        <item>PS Mangol Puri</item>
+        <item>C Block Mangol Puri</item>
+        <item>Q Block Mangol Puri Terminal</item>
+        <item>Shaheen Bagh Thokar No 6</item>
+        <item>Bamnoli Firni Road</item>
+        <item>Vasant Vihar Poorvi Marg</item>
+        <item>RS Satsang</item>
+        <item>Kotla Vihar Phase I</item>
+        <item>East Park Road</item>
+        <item>Akbar Bhawan</item>
+        <item>Rail Museum</item>
+        <item>Radisson BLU Hotel</item>
+        <item>Shivani Apartments/ Kunj Vihar Sector-12 Dwarka</item>
+        <item>Sector 17/18 More Dwarka</item>
+        <item>Bodhik Sampda Bhawan</item>
+        <item>National Law University Delhi</item>
+        <item>Dwarka Sec 16C/GGS IP University</item>
+        <item>Geeta Colony Road Crossing</item>
+        <item>Chaukhandi</item>
+        <item>Delhi Vidhan Sabha</item>
+        <item>Moti Bagh 1</item>
+        <item>Railway Museum</item>
+        <item>Khanpur Village</item>
+        <item>RK Puram Sec 9</item>
+        <item>Avtar Enclave</item>
+        <item>Sabji Mandi Azadpur</item>
+        <item>Sukh Dev Vihar</item>
+        <item>Sheikh Sarai More</item>
+        <item>T.B. Hospital</item>
+        <item>Police Station Sarojini Nagar</item>
+        <item>Ambedkar Nagar Sec- 5 (T)</item>
+        <item>Virat Cinema Crossing</item>
+        <item>C R Park</item>
+        <item>C R Park Market 1</item>
+        <item>C R Park Market 2</item>
+        <item>Desh Bandhu Apartments</item>
+        <item>Nehru Place Crossing / Paras Cinema</item>
+        <item>Madanpur Khadar</item>
+        <item>Baba Bishamber Dass Ashram</item>
+        <item>C R Park Market II</item>
+        <item>S Block Mangol Puri</item>
+        <item>Chhath Park Mangol Puri</item>
+        <item>New Usmanpur pusta no-1</item>
+        <item>Majnu Ka Tila</item>
+        <item>East Punjabi Bagh</item>
+        <item>Bharat Petrolium (Dwarka Link Road)</item>
+        <item>Govt Boys Sr Sec School (Shahbad)</item>
+        <item>Tata Motors Gali No 6</item>
+        <item>Mother Dairy Gali No 4</item>
+        <item>Shahbad Mohammadpur Village</item>
+        <item>Summervilla School / Dallupura Village</item>
+        <item>Satyam/Doctors Apartments</item>
+        <item>Highland Apartments</item>
+        <item>Multi Gym</item>
+        <item>Nazafgarh Dhansa More</item>
+        <item>Varishth Nagrik Sewa Sadan Lampur</item>
+        <item>Ramdev Chowk Narela Terminal</item>
+        <item>Seelam Pur Petrol pump</item>
+        <item>Bhajan Pura</item>
+        <item>Rajendra Place / Karol Bagh Telephone Exchange</item>
+        <item>Minto Road Terminal</item>
+        <item>Sec-24 Pocket 5</item>
+        <item>Nityanand Marg</item>
+        <item>R R Lines</item>
+        <item>Peera Garhi (Outer Ring Road)</item>
+        <item>Darya Ganj</item>
+        <item>Wazirpur Depot / Subhash Place Depot</item>
+        <item>Dharamshila Hospital</item>
+        <item>Ghuman Hera Depot 2</item>
+        <item>Check Post Janak Puri</item>
+        <item>Hauz Khas Terminal</item>
+        <item>R K Puram Sec-7 Xing</item>
+        <item>School of Physical Science</item>
+        <item>Qutab Hotel</item>
+        <item>Adhchini</item>
+        <item>Mother School</item>
+        <item>Q Block Mangol Puri</item>
+        <item>Durlabh Nath Vatika Mangol Puri</item>
+        <item>Air Traffic Control Office</item>
+        <item>Dwarka Sec 6-10 Market</item>
+        <item>Kaveri Apartments</item>
+        <item>Dhauladhar Apartments Sec-5</item>
+        <item>Shankar Vihar / National Highway 8</item>
+        <item>Shakur Basti</item>
+        <item>Rani Bagh Railway Colony</item>
+        <item>Bhagwan Mahavir Hospital</item>
+        <item>Aya Nagar Terminal</item>
+        <item>Aya Nagar Crossing</item>
+        <item>Arjan Garh Metro Station</item>
+        <item>RRC Station MB Road</item>
+        <item>Air Station Ghitorni</item>
+        <item>Ghitorni School</item>
+        <item>Ghitorni Metro Station</item>
+        <item>NBCC Ghitorni</item>
+        <item>Sultan Pur Metro Station</item>
+        <item>New Mangla Puri</item>
+        <item>Chhatarpur Metro Station</item>
+        <item>Delhi Jal Board (MG Road)</item>
+        <item>Sai Baba Mandir (Nazafgarh)</item>
+        <item>Nawada Gaon</item>
+        <item>Pragati Maidan Terminal / Bhairon Mandir</item>
+        <item>Pragati Maidan Terminal / Purana Qila</item>
+        <item>Dauralla Border</item>
+        <item>Seelampur</item>
+        <item>Chajjupur</item>
+        <item>Hardev Puri</item>
+        <item>Nathu Colony</item>
+        <item>GTB Hospital Xing</item>
+        <item>School Surhera Crossing</item>
+        <item>Shanti Van (Geeta Colony Bridge)</item>
+        <item>Yamuna Bazar/ Hanuman Mandir</item>
+        <item>Kamla Market Ajmeri Gate</item>
+        <item>Ghuman Hera Depot 1</item>
+        <item>JJ Colony Wazir Pur</item>
+        <item>Dhobhi Ghat Jhilmil</item>
+        <item>C Block Jhilmil Colony</item>
+        <item>Jhilmil Colony Phase 2</item>
+        <item>Business College for Girls</item>
+        <item>Sec-8 RK Puram</item>
+        <item>AMPC (Automated Mail Processing Centre)</item>
+        <item>Khicripur Village</item>
+        <item>East Vinod Nagar</item>
+        <item>Azadpur</item>
+        <item>A3 Block Paschim Vihar</item>
+        <item>Garrision Eng.</item>
+        <item>Sarai Kale Khan ISBT Terminal</item>
+        <item>GH-14 Paschim Vihar</item>
+        <item>Sai Ram Mandir / Angad Park</item>
+        <item>Palika Kendra Terminal</item>
+        <item>Raksha Vigyan Kendra / Metcalf House</item>
+        <item>Sec- E Pkt- 2 Vasant Kunj</item>
+        <item>Mahipal Pur Extension</item>
+        <item>Bawana Depot Sec 1 Crossing</item>
+        <item>Rajeev Ratan Aawas Yojna</item>
+        <item>Yamuna Link Road 36/37 Crossing</item>
+        <item>Rohini Sector 34 C2 C3</item>
+        <item>Rohini Sector 34 Pkt 1</item>
+        <item>Khera Khurd Check Post</item>
+        <item>NIDM Camps Sec 29</item>
+        <item>Mahadev Chowk Rohini Sec 27 / 30 Crossing</item>
+        <item>District Park Sector 20</item>
+        <item>D Block Mangol Puri (T)</item>
+        <item>Trilok Puri 16 Block</item>
+        <item>Trilok Puri Crossing</item>
+        <item>Milennium Depot Gate 8</item>
+        <item>Lakhhi Ram Park</item>
+        <item>Bawana JJ Colony</item>
+        <item>Bawana Sec 6 / 7 Crossing</item>
+        <item>Bawana Sec 5 Cluster Depot G1</item>
+        <item>Aero City Metro Station</item>
+        <item>Police Colony Mehram Nagar</item>
+        <item>Geeta Colony Pul / Vijay Ghat</item>
+        <item>Pragati Maidan Terminal</item>
+        <item>Millenium Depot Cluster</item>
+        <item>Crown Plaza(CRPF Camp)</item>
+        <item>Chander Vihar (Nilothi)</item>
+        <item>Shri Ram Colony (Nilothi)</item>
+        <item>Jal Board Office (Nilothi)</item>
+        <item>Nilothi Village</item>
+        <item>Chhatarpur Ext / Nanda Hospital</item>
+        <item>Rajpur Crossing</item>
+        <item>Chhatarpur Village</item>
+        <item>Chhatarpur Mandir</item>
+        <item>Chhatarpur More</item>
+        <item>Surehra Community Centre</item>
+        <item>Udaseen Ashram Khera Dabar</item>
+        <item>Khera Dabar Village</item>
+        <item>Ch Brahm Parkash Ayurvedic Hospital</item>
+        <item>Jyoti Colony</item>
+        <item>Durgapuri</item>
+        <item>Babarpur Extension</item>
+        <item>Mogpur Crossing</item>
+        <item>Shanti Van Crossing</item>
+        <item>SDM Office</item>
+        <item>Shamshan Ghat Pusta</item>
+        <item>Gandhi Nagar Pusta</item>
+        <item>Kailash Nagar</item>
+        <item>Shastri Park Metro Station</item>
+        <item>Bulland Masjid Shastri Park</item>
+        <item>Jawahar Lal Nehru Stadium</item>
+        <item>Seetapuri Extension</item>
+        <item>Rajeev Ratan Aawas/Baprola Phase 1</item>
+        <item>Sainik Enclave/Vikas Nagar Nala Road</item>
+        <item>Indraprastha Cluster Depot</item>
+        <item>Millenium Cluster Depot</item>
+        <item>Bhairon Mandir Pragati Maidan</item>
+        <item>Shalimar Bagh BH-Block</item>
+        <item>Shalimar Bagh BR-Block</item>
+        <item>AE-BLK Shalimar Bagh</item>
+        <item>A Block Shalimar Bagh</item>
+        <item>ITO (DDU Marg)</item>
+        <item>Rouse Avenue(Bal Bhawan)</item>
+        <item>Lado Sarai(Firni Road)</item>
+        <item>Kalka Ji Depot Govindpuri</item>
+        <item>Milennium Depot Gate 4/5</item>
+        <item>Trilok Puri 27 Block Terminal</item>
+        <item>Samudaya Bhawan Trilok Puri 17 Block</item>
+        <item>Wood Market / Mansarover Garden</item>
+        <item>Saraswati Garden</item>
+        <item>Shri Nagar Colony</item>
+        <item>Chowki No. 2</item>
+        <item>Nangloi JJ Colony</item>
+        <item>Oil Factory</item>
+        <item>Palm Court Sec 19B Dwarka</item>
+        <item>Aslatpur Crossing</item>
+        <item>Sub Division Office</item>
+        <item>Kotwali Darya Ganj / ShantiVan</item>
+        <item>PWD Office</item>
+        <item>Lado Sarai Firni Road</item>
+        <item>Sharda Niketan / Bank Vihar</item>
+        <item>Transport Department</item>
+        <item>Vijay Enclave</item>
+        <item>Amar Jyoti Hospital</item>
+        <item>AGCR Enclave</item>
+        <item>Karkardooma DDA Flats</item>
+        <item>Sharda Enclave</item>
+        <item>Babarpur Extn</item>
+        <item>DDA LIG Flats</item>
+        <item>Durga Puri Chowk/ Jyoti Colony</item>
+        <item>Balbir Nagar</item>
+        <item>Kabul Nagar</item>
+        <item>Shastri Park Metro Station (Ajit Nagar)</item>
+        <item>Yamuna Bridge East</item>
+        <item>Kailash Nagar Pusta</item>
+        <item>Gandhi Nagar Pusta (Sulah Kul Mandir)</item>
+        <item>Shamshaan Ghat Pusta</item>
+        <item>Krishan Kunj / Bank Enclave</item>
+        <item>Nand Nagri Ext</item>
+        <item>GTB Enclave</item>
+        <item>Burari Garhi</item>
+        <item>GTB Hospital Crossing</item>
+        <item>Karawal Nagar Terminal</item>
+        <item>Karawal Nagar Extension</item>
+        <item>Dayal Pur</item>
+        <item>SherPur Chowk</item>
+        <item>Milennium Depot Gate 3</item>
+        <item>Milennium Depot Gate 7</item>
+        <item>Siras Pur Crossing</item>
+        <item>Siras Pur Chhattri</item>
+        <item>Fire Station Paschim Vihar</item>
+        <item>Deep Chand Bandhu Hospital</item>
+        <item>Chand Bagh</item>
+        <item>Chandu Nagar</item>
+        <item>Nehru Vihar</item>
+        <item>Sadat Nagar</item>
+        <item>Ambedkar Nagar Sec-4 (Virat Cinema)</item>
+        <item>Saket J-Block</item>
+        <item>Saket M-Block</item>
+        <item>MMTC</item>
+        <item>R.R.Line</item>
+        <item>Safdarjung Terminal</item>
+        <item>Chhatarpur Crossing</item>
+        <item>Rajpur Ext</item>
+        <item>Satbari</item>
+        <item>Ambedkar Colony</item>
+        <item>Mallu Farm</item>
+        <item>Chandan Hola</item>
+        <item>Shani Dham Mandir</item>
+        <item>Fatehpur Beri</item>
+        <item>Harswaroop Colony</item>
+        <item>Dera More</item>
+        <item>Bank Enclave</item>
+        <item>Link Road</item>
+        <item>Durga Puri Chowk/ Jyoti Nagar</item>
+        <item>Acharya Narendra Dev College Govindpuri</item>
+        <item>Jagat Pur Temple</item>
+        <item>Gali No 6 Wazirabad</item>
+        <item>Gurjjar Chowk</item>
+        <item>Jagat Pur Crossing</item>
+        <item>Sawan Public School</item>
+        <item>Vipassana Bhawan</item>
+        <item>Sanjay Colony</item>
+        <item>Bhati Mines (T)</item>
+        <item>Dwarka Sec 8 Metro Station Crossing</item>
+        <item>Mubarakpur Dabas</item>
+        <item>Dashmesh Public School</item>
+        <item>Mahesh Apartments</item>
+        <item>Prem Nursery</item>
+        <item>Gurudwara</item>
+        <item>Swasthya Vihar</item>
+        <item>Samalkha More</item>
+        <item>K.N. College</item>
+        <item>Desu Office Karala</item>
+        <item>Moti Nagar Ind Area (Kirti Nagar Road)</item>
+        <item>Moti Nagar Ind Area / Kirti Nagar</item>
+        <item>Milennium Depot Gate 6</item>
+        <item>Milennium Depot Gate 1</item>
+        <item>Kaithwara</item>
+        <item>New Usmanpur</item>
+        <item>Shalimar Bagh Desu</item>
+        <item>Civil Line Metro Station</item>
+        <item>R. R. Line</item>
+        <item>RK Puram Sec 1-4</item>
+        <item>Pushp Bhawan</item>
+        <item>SFS Flats Sec 22 Dwarka</item>
+        <item>Mundka Village</item>
+        <item>Pulbungash</item>
+        <item>Okhla Industries Area</item>
+        <item>Govt School Chand Nagar</item>
+        <item>Choukhandi</item>
+        <item>Khayala Crossing</item>
+        <item>Khayala JJ Colony</item>
+        <item>New Surya Kiran Apartments</item>
+        <item>Nihal Vihar / Ambika Vihar</item>
+        <item>GTK Bypass</item>
+        <item>Vishal Enclave</item>
+        <item>Shivaji College</item>
+        <item>Raja Garden Terminal</item>
+        <item>Kanjhawala Depot</item>
+        <item>Madan Pur Dabas</item>
+        <item>Chowki No.2</item>
+        <item>Bharat Nagar Xing</item>
+        <item>Janta Colony</item>
+        <item>Raghubir Nagar A Block</item>
+        <item>Paschim Puri Pkt A</item>
+        <item>Kali Bari Mandir</item>
+        <item>Laxmi Narayan Mandir</item>
+        <item>BR Shalimar Bagh</item>
+        <item>Shalimar Bagh CC Centre</item>
+        <item>Mukhrajee Market (Rohtak Road)</item>
+        <item>Apeejay School of Management</item>
+        <item>University Of Pharmacy Khanpur</item>
+        <item>Mandi house</item>
+        <item>Desh Bandhu Appartments</item>
+        <item>Institutional Area Vasant Kunj</item>
+        <item>B-II Vasant Kunj</item>
+        <item>Bhatnagar Public School</item>
+        <item>Goenka public School</item>
+        <item>Vasant Kunj 8 - 7</item>
+        <item>Mothers Dairy Kishangarh</item>
+        <item>B3 Vasant Kunj Kendriya Vidhyalaya</item>
+        <item>Kishangarh Crossing</item>
+        <item>ICSSR</item>
+        <item>JNU / Sanchar Office</item>
+        <item>Sewak Park</item>
+        <item>I Block Sarojini Nagar</item>
+        <item>Sarojini Nagar Market (B H Singh Marg)</item>
+        <item>Saidula Jab</item>
+        <item>India Gate</item>
+        <item>Vasant Kunj 8-7</item>
+        <item>vasant Kunj sec-B</item>
+        <item>New Delhi Railway Station Flyover</item>
+        <item>Paras Cinema</item>
+        <item>Mubarakpur School</item>
+        <item>A Block Sec 11 Rohini</item>
+        <item>B2 Sec 11 Rohini</item>
+        <item>Neeti Bagh</item>
+        <item>Jhilmil Colony A Block</item>
+        <item>Jhilmil Colony B Block</item>
+        <item>Police Chowki Tikari Border</item>
+        <item>Kamla Nehru College</item>
+        <item>GGS IP University</item>
+        <item>DDA Flats Sec 18B Dwarka</item>
+        <item>Golf Link Residency Dwarka</item>
+        <item>Dwarka Sec 19B</item>
+        <item>RS Satsang Sec 23 Dwarka</item>
+        <item>Khera More / Ghuman Hera Crossing</item>
+        <item>Mangolpur Police Lines</item>
+        <item>Shahdra Border</item>
+        <item>Int Law University Sec 14 Dwarka</item>
+        <item>Dwarka Sec 14 Metro Station</item>
+        <item>MIG DDA Flats Pkt B</item>
+        <item>DDA Flats Sec 14 Dwarka</item>
+        <item>Rohini Sec 16 (T)</item>
+        <item>Dwarka Sec 13 Pkt 1</item>
+        <item>SFS Flats Dwarka Sec 13</item>
+        <item>IP Power Station / ITO Ring Road</item>
+        <item>Kali Bari</item>
+        <item>Janakpuri A-Block</item>
+        <item>CRPF Camp keshopur</item>
+        <item>Vishal Enclave (Bawana Road)</item>
+        <item>Primary School Baprola</item>
+        <item>Ashok Vihar Phase 1</item>
+        <item>H Block Ashok Vihar</item>
+        <item>I Block Ashok Vihar</item>
+        <item>Pipal Wala Road Crossing Mohan Garden</item>
+        <item>Harish Chandra Hospital</item>
+        <item>Harewali Border</item>
+        <item>Govt Co-Edu Sr Sec School Sec-22 Dwarka</item>
+        <item>KharKhari Jatmal Village</item>
+        <item>Main Kajawala Road</item>
+        <item>Keshav Kunj Apartments</item>
+        <item>Akhil Bhartiya Netraheen School</item>
+        <item>Bhikaji Kama Place</item>
+        <item>Hyatt Regency</item>
+        <item>Kotla Mubarakpur</item>
+        <item>Ayodhya Chowk</item>
+        <item>Naharpur Village</item>
+        <item>Rohini Sec-7</item>
+        <item>Hanuman Mandir</item>
+        <item>Nav Durga Mandir</item>
+        <item>Delhi ADMN Flats Timarpur</item>
+        <item>Ram Prastha Xing</item>
+        <item>Bawana JJ Colony KL Block</item>
+        <item>Industrial Area Bawana</item>
+        <item>Rohini Sec-18 Police Chowki</item>
+        <item>Rohini Jail</item>
+        <item>Jahangir Puri GT Road-Metro St</item>
+        <item>P.S. Kamla Nagar</item>
+        <item>Old Delhi Railway Station (Fatehpuri)</item>
+        <item>Anand Vihar</item>
+        <item>Singhu Border Crossing</item>
+        <item>Jai Vihar H Block</item>
+        <item>Water Tank (March Shree)</item>
+        <item>Nangloi Village Najafgarh Road</item>
+        <item>Sewa Nagar Railway Bandh</item>
+        <item>ISBT</item>
+        <item>Rohini MCD Office</item>
+        <item>Rohini Sec-22 Terminal</item>
+        <item>Mangolpur Kalan</item>
+        <item>Chandra Lok</item>
+        <item>Rajdhani Enclave</item>
+        <item>Hastsal Village</item>
+        <item>ISBT Maharana Pratap Bus (T)</item>
+        <item>Khan Market</item>
+        <item>Mor Lines</item>
+        <item>Palam Mor</item>
+        <item>Palam Tank</item>
+        <item>Sadiq Nagar</item>
+        <item>Arya Samaj Road</item>
+        <item>Shivalik</item>
+        <item>Janakpuri C4-Block</item>
+        <item>Mangolpuri B-Block</item>
+        <item>Mangolpuri DDA Market</item>
+        <item>Qutab Garh</item>
+        <item>Katevara Xing</item>
+        <item>Mangeshpur</item>
+        <item>Samaspur Badli</item>
+        <item>Samaypur</item>
+        <item>Malka Ganj</item>
+        <item>Delhi Flour Mill</item>
+        <item>Dabri Village(Sitapuri)</item>
+        <item>Dashrathpuri</item>
+        <item>Mahaveer Enclave Part-II and III</item>
+        <item>Sec-6 Telephone Exchang</item>
+        <item>Dwarka Sec-6/7 Xing</item>
+        <item>Royal Residency</item>
+        <item>Sec-8 DTC Bus Depot</item>
+        <item>Sec-9 Metro Station</item>
+        <item>Dwarka Sec-23</item>
+        <item>Shahnad Mohammad</item>
+        <item>Pochanpur</item>
+        <item>Bhadhthal  Village</item>
+        <item>Bijwasan Railway Xing</item>
+        <item>Bijwasan Village</item>
+        <item>Masoodpur</item>
+        <item>Vasant Kunj B-3</item>
+        <item>B-3 Vasant Kunj</item>
+        <item>B-5-6 Vasant Kunj</item>
+        <item>B-8 Vasant Kunj</item>
+        <item>Bhatnagar International School</item>
+        <item>B-11 Sec- Vasant Kunj</item>
+        <item>Vasant Kunj Police Station C-8</item>
+        <item>Shopping Centre Mall</item>
+        <item>Baba Gang Nath Marg</item>
+        <item>Taj Palace</item>
+        <item>ITC Maurya</item>
+        <item>Malcha marg Xing</item>
+        <item>Hotel Diplomat New Delhi</item>
+        <item>Dr. S.P.M. Stadium</item>
+        <item>Regal</item>
+        <item>Minto Road</item>
+        <item>Creative Heights LIG Flats Gate 3</item>
+        <item>Creative Heights LIG Flats Gate 1</item>
+        <item>Rohini Heights HIG Flats</item>
+        <item>Roshanpura</item>
+        <item>Jhatikara Xing</item>
+        <item>Rewala Khampur</item>
+        <item>Pindwala Xing</item>
+        <item>Daulatpur Xing</item>
+        <item>Doulatpur</item>
+        <item>Dera Kalan Terminal</item>
+        <item>Dera Mandi</item>
+        <item>Felli Bharta Nagar</item>
+        <item>Inderprastha Park</item>
+        <item>Pindwala X-Ing</item>
+        <item>Rewala Khampur Xing</item>
+        <item>Uttam Nagar West</item>
+        <item>Janakpuri West</item>
+        <item>Okhla Industrial Area</item>
+        <item>Harijan Basti</item>
+        <item>Agar Nagar</item>
+        <item>Kirari Nahar</item>
+        <item>Kirari Lal Mandir</item>
+        <item>Kirari Gaon</item>
+        <item>Kirari Railway Xing</item>
+        <item>Rithala Xing</item>
+        <item>Mubarakpur Xing</item>
+        <item>Sabhapur Village</item>
+        <item>Loni No. 2</item>
+        <item>Sadattpur Village</item>
+        <item>Dayalpur</item>
+        <item>Nehru Vihar Dayalpur</item>
+        <item>Sherpur</item>
+        <item>Rawta Crossing (Ujwa Village Road)</item>
+        <item>Mitraon Valmiki Mandir</item>
+        <item>Nanak Piyau 2</item>
+        <item>Dera Sachha Sauda Kanjhawla</item>
+        <item>Ambedkar Chaupal</item>
+        <item>Rohini Sec-6</item>
+        <item>Mayapuri Chowk/ Mansarovar Garden</item>
+        <item>Delhi Sachvalaya (Rajghat Power House)</item>
+        <item>Pt. Pant Marg</item>
+        <item>Base Hospital</item>
+        <item>Police Station Sadar Bazar</item>
+        <item>Dwarka Gate</item>
+        <item>Sec-7 Prince Park</item>
+        <item>Dwarka SPG Complex Gate No.2</item>
+        <item>Dwarka Metro Station Sec-8</item>
+        <item>Sec-22/23 Dividing</item>
+        <item>Punjabi Bagh West</item>
+        <item>Rohini  Sec-1 Avantika</item>
+        <item>Jahangirpuri C Block</item>
+        <item>Jahangirpuri B-Block</item>
+        <item>Paschim Vihar Chowk</item>
+        <item>Nangli Punam</item>
+        <item>Budhpur</item>
+        <item>Alipur</item>
+        <item>Alipur Village Dayal Market</item>
+        <item>Minda Farms</item>
+        <item>Holambi Khurad</item>
+        <item>Holambi Kalan</item>
+        <item>Ashok Vihar Ph-III</item>
+        <item>Deep Cinema</item>
+        <item>Wazirpur Industrial Area</item>
+        <item>Deverkhana Toll Tax</item>
+        <item>Dhansa Village 2</item>
+        <item>Sanik Vihar</item>
+        <item>Geeta Colony Pul Ring Road</item>
+        <item>Rohini Sec-15</item>
+        <item>Dena Apartments</item>
+        <item>Dwarka Sec-18A/17D</item>
+        <item>Kargil Apartment Sec-18 A</item>
+        <item>Sec 5/11 Xing</item>
+        <item>Sec-6  and  10 Xing</item>
+        <item>PS Sadar Bazar</item>
+        <item>Thana Sadar</item>
+        <item>Vidhya Vihar</item>
+        <item>Ashok Vihar Xing</item>
+        <item>Ashok Vihar Ph-II</item>
+        <item>Anupam Saket</item>
+        <item>Welcome</item>
+        <item>Sultanpuri AB Extension</item>
+        <item>Shahdara Border</item>
+        <item>GTB Hospital</item>
+        <item>Nand Nagari C-Block</item>
+        <item>Natthu Colony Chowk</item>
+        <item>Babarpur</item>
+        <item>Vijay Park</item>
+        <item>Yamuna Vihar C-12</item>
+        <item>Yamuna Vihar C-4</item>
+        <item>Jamiya Nagar</item>
+        <item>Noor Masjid</item>
+        <item>Peera Garhi</item>
+        <item>South Campus</item>
+        <item>Rohini Nala</item>
+        <item>Bagrala Xing</item>
+        <item>Dwarka Sec-6/10 Market</item>
+        <item>Mahavir Enclave Part II-III</item>
+        <item>YMCA</item>
+        <item>Janakpuri A-3</item>
+        <item>SS Moti Singh Marg</item>
+        <item>Rohini Sec 30 IGL Pump</item>
+        <item>Mohan Cooperative Estate</item>
+        <item>Badli School</item>
+        <item>DSI DC Bawana</item>
+        <item>Bawana</item>
+        <item>Atul Grove Marg</item>
+        <item>Gazipur Crossing / NHW Crossing</item>
+        <item>Vinod Nagar</item>
+        <item>Mangalam Hospital Xing</item>
+        <item>Baba Bishambar Dass Ashram</item>
+        <item>Sharad Vihar</item>
+        <item>DDA Flats Kakarduma</item>
+        <item>Amar Jyoti</item>
+        <item>Kirari More</item>
+        <item>Tahirpur Village</item>
+        <item>Johripur Village</item>
+        <item>Gola Factory</item>
+        <item>Guru Angad Nagar</item>
+        <item>DDA Market</item>
+        <item>C R Park B Block</item>
+        <item>Narela Pocket 2 Sec 10 Sports Complex</item>
+        <item>Narela Railway Crossing</item>
+        <item>Dera Sachha Sauda</item>
+        <item>Malcha Marg xing</item>
+        <item>Nangloi JJ Colony-III</item>
+        <item>Nangloi JJ Colony-II</item>
+        <item>Mundka Railway Xing</item>
+        <item>EVND</item>
+        <item>A Block Dilshad Garden Bloomfield Public School</item>
+        <item>Lado Sarai Xing</item>
+        <item>Jwala Puri Nangloi Depot</item>
+        <item>Sec-6  and  10 Market</item>
+        <item>Dwarka Sec-19 Pkt.-2.</item>
+        <item>Sultan Puri F-Block</item>
+        <item>Dayal Market Alipur Village</item>
+        <item>Libaspur</item>
+        <item>Bhalswa Bypass</item>
+        <item>East Babarpur</item>
+        <item>Dilshad Garden Terminal</item>
+        <item>Katevara Village</item>
+        <item>Rohini Sec-18 B-Block</item>
+        <item>Old Secretariat</item>
+        <item>Prithviraj Road</item>
+        <item>Baba Gang Nath Marg Xing</item>
+        <item>J.N.U. Gate</item>
+        <item>Hill Area /Mall</item>
+        <item>Manav Sthali School</item>
+        <item>Mother Dairy Kishan Garh</item>
+        <item>Mata Chandan Devi Hospital</item>
+        <item>Dwarka Sec-6/10 Market Xing</item>
+        <item>DDA Flats Karkardooma</item>
+        <item>Wazirabad GT Road Crossing</item>
+        <item>Meer Vihar</item>
+        <item>Birla Mill</item>
+        <item>P.S.Kamla Market</item>
+        <item>Azadpur Village</item>
+        <item>Pandit Park</item>
+        <item>Shivpuri</item>
+        <item>Khureji</item>
+        <item>JJ Colony Bawana Road</item>
+        <item>Jain Shukla Mandir</item>
+        <item>Jounti Border</item>
+        <item>Karawal nagar</item>
+        <item>RAM NAGAR COLONY BQS</item>
+        <item>Mahipal Pur Crossing</item>
+        <item>Sec-24 Rohini</item>
+        <item>RK Puram Sec-9</item>
+        <item>Rohini Sector 27/28 Crossing</item>
+        <item>Rohini Sec 27/28 Crossing</item>
+        <item>LIG / HIG Houses Sector 29</item>
+        <item>Ghuman Hera  Xing</item>
+        <item>Rawta Xing</item>
+        <item>Vardhmaan Mall Narela</item>
+        <item>Sarita Vihar Xing</item>
+        <item>Yamuna Bridge East Check Post</item>
+        <item>Mahamaya Flyover West</item>
+        <item>Amity International School</item>
+        <item>Sec 37 Chowk</item>
+        <item>Noida Sector 37</item>
+        <item>Chhalera Village</item>
+        <item>Police Choki Sadarpur</item>
+        <item>Sadarpur More</item>
+        <item>Noida Sec 40</item>
+        <item>AGHAPUR VILLAGE</item>
+        <item>Baroula Village</item>
+        <item>Hindon Vihar Xing</item>
+        <item>Sarin Farm</item>
+        <item>Mehrishi Ashram Salarpur</item>
+        <item>SALARPUR VILLAGE</item>
+        <item>Bhangel Village</item>
+        <item>Noida Sec 82 More</item>
+        <item>Nepz Gate No 2</item>
+        <item>Hosiery Complex petrol Pump</item>
+        <item>Nangla Village</item>
+        <item>Noida Ph 2</item>
+        <item>Noida Ph 2 Phool Mandi</item>
+        <item>Crown Plaza Okhla</item>
+        <item>DESU Office (BSES)</item>
+        <item>Sarita Vihar Under Pass</item>
+        <item>Chhalera village</item>
+        <item>BIRLA MILL</item>
+        <item>Harmilap Ashram</item>
+        <item>Bakauli Crossing</item>
+        <item>Palla Xing</item>
+        <item>Jaipur G Trapt</item>
+        <item>motiya khan</item>
+        <item>P S Sadar Bazar</item>
+        <item>Id Ghah</item>
+        <item>MODEL BASTI-DC2845</item>
+        <item>ps old subzi mandi</item>
+        <item>JahangirPuri B Block</item>
+        <item>GOLCHA CINEMA</item>
+        <item>Golcha Cinema</item>
+        <item>Express Building-DC2809</item>
+        <item>Kotah House</item>
+        <item>NHW8 Crossing</item>
+        <item>Krishna Gali Yamuna Vihar C-12</item>
+        <item>durga puri chowk</item>
+        <item>New Seema Puri</item>
+        <item>Ramprashta Mandir</item>
+        <item>Mayur Vihar Phase-3 Xing BRD</item>
+        <item>JhundPura Village Noida Sector-11</item>
+        <item>Noida Sector 8</item>
+        <item>Noida Sect-12 A Block</item>
+        <item>Metro Hospital</item>
+        <item>Noida Sector 56</item>
+        <item>Noida Sec 12-22 t-Point</item>
+        <item>Raghu Nath Pur /Chora Village</item>
+        <item>Chora More Sec12</item>
+        <item>Noida Sec-10-21</item>
+        <item>Telephone Exch Noida Sector-19</item>
+        <item>Noida Sector-19B</item>
+        <item>Noida Sec 27 Chowk</item>
+        <item>Noida Sector-27 Market</item>
+        <item>Noida Sec 28</item>
+        <item>Vishwa Bharti School</item>
+        <item>Atta Chowk</item>
+        <item>Noida Sector-28/29</item>
+        <item>Botanical Garden Metro Station</item>
+        <item>Noida Sec 43 Police Chowki</item>
+        <item>Badarpur Khadar Shank No 27</item>
+        <item>Tronika City Gate No 2</item>
+        <item>Tronika City Gate No 1</item>
+        <item>Sayeed Nagar More</item>
+        <item>Noida Sec 12/ 22 T Point</item>
+        <item>Chora More Sec-12</item>
+        <item>Noida Stadium</item>
+        <item>Noida Sec 10 / 21</item>
+        <item>Noida Sec 9 Power House</item>
+        <item>Noida Sec-19 B</item>
+        <item>MIG Flats DDA L.R. Xing</item>
+        <item>GTB Crossing</item>
+        <item>Surajmal Vihar Authrity</item>
+        <item>Mehrauli</item>
+        <item>Qutab Minar</item>
+        <item>Dhola Peer</item>
+        <item>Said ul zeb Village</item>
+        <item>Maidan Garhi Xing</item>
+        <item>Saket Xing</item>
+        <item>DIPSAR</item>
+        <item>Devoli Road Crossing</item>
+        <item>Vayusena Bad</item>
+        <item>Tuglkabad Fort</item>
+        <item>Okhla More</item>
+        <item>Noida Sector 28/29</item>
+        <item>Noida Sec-18 Metro Station</item>
+        <item>Film City More Under Pass</item>
+        <item>Wave Cinema</item>
+        <item>Atta Peer</item>
+        <item>Rajni Gandha Chowk</item>
+        <item>Noida Sec-22 Shiv Mandir</item>
+        <item>Sector-22 Noida H-Blk.</item>
+        <item>Noida Sec 57 Xing</item>
+        <item>Noida Sec-23 Chowk</item>
+        <item>Noida Sector-53 Chowk</item>
+        <item>Noida Sector-32 Terminal</item>
+        <item>Lado Sarai Terminal</item>
+        <item>Noida Sect 12 A Block</item>
+        <item>Jhund Pura Sec 11</item>
+        <item>Khora Cly Corner</item>
+        <item>Mayur Vihar Ph III Paper Market</item>
+        <item>Vivekanand Hospital</item>
+        <item>Sarai Rohila</item>
+        <item>Mausam Vihar</item>
+        <item>Ram Mandir Paschim Vihar</item>
+        <item>Dda Flats Karkardooma</item>
+        <item>Ranjeet Nagar</item>
+        <item>Mandawali Government School</item>
+        <item>Raja Park</item>
+        <item>Gurudwara Marg</item>
+        <item>Master Prithvi Nath Marg</item>
+        <item>vijay nagtar</item>
+        <item>Vijya Bank</item>
+        <item>Kirorimal Collage</item>
+        <item>Samay Pur</item>
+        <item>Ali Pur Gt Road</item>
+        <item>Mcd Rest H</item>
+        <item>Ali Pur Garhi</item>
+        <item>Arvind Farm</item>
+        <item>Narela Mandi</item>
+        <item>Durga Mandir A</item>
+        <item>Kureni Village</item>
+        <item>narela sector 5/6 crossing</item>
+        <item>B-4 Pocket-13 Narela</item>
+        <item>id hospital</item>
+        <item>jyoti nagar</item>
+        <item>Mukhmel Pur</item>
+        <item>Shahbad Bank</item>
+        <item>Prehlad Pur Mandir</item>
+        <item>Dharamshala Pooth Khurd</item>
+        <item>Dhakewala</item>
+        <item>Dsidc Sec  1</item>
+        <item>Birla Mills</item>
+        <item>Jahangir Puri Crossing</item>
+        <item>sardar colony</item>
+        <item>Bhai Parmanand Hosp.</item>
+        <item>Petrol Pump</item>
+        <item>Badli Factory Area</item>
+        <item>DHARAMSHALA POOTH KHURD</item>
+        <item>Pooth Khurd Hospital</item>
+        <item>Nangal Crossing</item>
+        <item>Daulat Ram College</item>
+        <item>Kirti Ngr Rly Reser Offic</item>
+        <item>Pooth Khurd village</item>
+        <item>Air Force Stn Ghoga</item>
+        <item>Sannoth Xing</item>
+        <item>Rohini Sec-23 Pkt-C Crossing</item>
+        <item>Lakhi Ram Park (Rohini Sector-22)</item>
+        <item>JAT KHOR</item>
+        <item>Azadpur Metro station</item>
+        <item>Jayanti X-lng</item>
+        <item>Katewara Xing</item>
+        <item>Harmilap Mission</item>
+        <item>Rohini Sector-16</item>
+        <item>Bawana JJ Colony A-Block</item>
+        <item>Shakkar Pur</item>
+        <item>Summer Villa School</item>
+        <item>Vasundhra Enclave Sports Complex</item>
+        <item>Haider Pur Water Work</item>
+        <item>Rohini Sec-17 Crossing</item>
+        <item>dsidc flats</item>
+        <item>b 4 pocket 13 narela</item>
+        <item>Ramdev Chowk Pithori Jhori</item>
+        <item>S.Raja Harish Chander Hospital</item>
+        <item>narela railway xing</item>
+        <item>BAL BICHU GHAR</item>
+        <item>Swatantra Ngr</item>
+        <item>Vishal Bagh</item>
+        <item>Harguru Govind Sarover</item>
+        <item>Akbar P Majra</item>
+        <item>Shalimar Village</item>
+        <item>siraspur village</item>
+        <item>ENGINEERING COLLEGE</item>
+        <item>Bawana Primary Scl</item>
+        <item>ghoga x ing</item>
+        <item>anubhav  appartment</item>
+        <item>guru  nanak training school</item>
+        <item>ashthal colony</item>
+        <item>GHOGA AIR FORCE STATION</item>
+        <item>pfa gau shala</item>
+        <item>SWATANTRA NAGAR</item>
+        <item>bal bhikshu greh</item>
+        <item>Delhi Sectt.</item>
+        <item>nigam bodh ghat</item>
+        <item>Sunder Bagh</item>
+        <item>Bakauli Vill</item>
+        <item>Ramjan P V X</item>
+        <item>Hiranki</item>
+        <item>Alipur Block</item>
+        <item>Alipur Cpwd Office</item>
+        <item>Taj Pur Kalan</item>
+        <item>sungerpur village</item>
+        <item>Mukand Pur More</item>
+        <item>salim garh geeta colony</item>
+        <item>metro vihar</item>
+        <item>Jounti</item>
+        <item>KODIYA PUL BUS STAND</item>
+        <item>punjabi basti</item>
+        <item>Mata Mandir Roshanara Road</item>
+        <item>Kalyan Vihar</item>
+        <item>Gurudwara Nanak Piou</item>
+        <item>Jahangir Puri Gt Road</item>
+        <item>Narela Rly Xing</item>
+        <item>Maharaja Aggsen Publ Scl</item>
+        <item>P S Nizamuddin</item>
+        <item>sant sarover</item>
+        <item>Raksha Vigyan Kendra</item>
+        <item>Engineering College</item>
+        <item>Bakauli crossing</item>
+        <item>Bakuli Temple</item>
+        <item>Seelampur Gt Road</item>
+        <item>GTB X-ING</item>
+        <item>Dlf X-Ing</item>
+        <item>Tisra Pusta</item>
+        <item>Trilok Puri 26 Block</item>
+        <item>36 Block Trilok Puri</item>
+        <item>Mayur Vihar Ph 1 Terminal</item>
+        <item>gole chakkar</item>
+        <item>murga mandi</item>
+        <item>gazi pur police station</item>
+        <item>hindu college</item>
+        <item>N D R Station G No 2</item>
+        <item>Sat Nagar</item>
+        <item>Sabziwala Chowk</item>
+        <item>Shri Gomaram Chowk</item>
+        <item>Kishan Ganj Dispensary</item>
+        <item>Sultan Puri Crossing</item>
+        <item>chand bagh</item>
+        <item>chandu nagar</item>
+        <item>tukhmir pur</item>
+        <item>sher pur</item>
+        <item>nehru vihar (dayal pur)</item>
+        <item>dayal pur</item>
+        <item>sadat pur</item>
+        <item>INMAS Hospital</item>
+        <item>Education Office (Lucknow Rd)</item>
+        <item>Timar Pur Qrts</item>
+        <item>Filmistan C</item>
+        <item>Police Line</item>
+        <item>Jain Hospital</item>
+        <item>Rss Kanjhawala</item>
+        <item>Krishna Marg</item>
+        <item>Tisra Pushta</item>
+        <item>Khajoori Khaas</item>
+        <item>Vijay Vihar</item>
+        <item>Anpurna Mandir Sonia Vihar</item>
+        <item>Sabha Pur More</item>
+        <item>gali no. 5 wazira bad jagatpur xing</item>
+        <item>Shamshan Ghat</item>
+        <item>Dharampura</item>
+        <item>kabul nagar</item>
+        <item>bhagwanpur khera</item>
+        <item>subhash park xing</item>
+        <item>Super Bazar Conn. Place</item>
+        <item>Modi Mills</item>
+        <item>CPWD Office</item>
+        <item>Samas Pur Jagir</item>
+        <item>Laxmi Nagar Xing</item>
+        <item>Trilokpuri 27/31 block</item>
+        <item>khivhri pur village corner</item>
+        <item>isar</item>
+        <item>Kishan Kunj</item>
+        <item>Amar Joyti Hospital</item>
+        <item>RAJENDER PLACE METRO STATION</item>
+        <item>Lal Quarter</item>
+        <item>Krishna Nagar</item>
+        <item>Noida Sector 27 Market</item>
+        <item>Toll Road Corner</item>
+        <item>Yamuna Bridge West</item>
+        <item>DND Border Toll Bridge Plaza</item>
+        <item>BHEL Power Station</item>
+        <item>Noida Depot</item>
+        <item>Noida Sec-26 Market</item>
+        <item>Shashi Chowk Sec 36</item>
+        <item>Noida Degree College</item>
+        <item>Noida City Center Metro Station Sec-32</item>
+        <item>Mamura Village West Corner</item>
+        <item>RO App- Sec-62-64 Noida</item>
+        <item>Forist Hospital</item>
+        <item>Neelkanth Apptt-Sec-62</item>
+        <item>Noida Sec 62 (Eletronic City)</item>
+        <item>Malik Pur Vill</item>
+        <item>HAUZ KHAS TERMINAL</item>
+        <item>Bihari Colony/Kanti Nagar</item>
+        <item>Babar Pur Terminal</item>
+        <item>Nathu Chowk</item>
+        <item>Samas Pur Village</item>
+        <item>patpar ganj</item>
+        <item>Pusta Crossing</item>
+        <item>Delhi Police Appartments</item>
+        <item>Mayur Vihar Phase 1 X-ing</item>
+        <item>Samachar Appartments</item>
+        <item>Mayur Palace</item>
+        <item>Hindon Regulator(BRD)</item>
+        <item>Mayur Kunj</item>
+        <item>Sec 14 Noida</item>
+        <item>Sec 15 Noida Metro Station</item>
+        <item>Noida Sec 3</item>
+        <item>Noida Sector 36</item>
+        <item>Noida Sec 39</item>
+        <item>Noida Sector 34</item>
+        <item>Noida Sec-35-51</item>
+        <item>Shashi Chowk</item>
+        <item>Noida Sector-71 More</item>
+        <item>Mayur Vihar Phase-2 Market</item>
+        <item>Government M S</item>
+        <item>Mayur Vihar P 2 P A</item>
+        <item>Baba B D Ashrm</item>
+        <item>Cpwd Office</item>
+        <item>Pusta X-Ing</item>
+        <item>Mayur Vihar Phase-1 X-Ing</item>
+        <item>preet vihar</item>
+        <item>highland appartment</item>
+        <item>mayur vihar ph-1 terminal</item>
+        <item>Moti  Bagh</item>
+        <item>Toll Bridge Corner</item>
+        <item>Kanchan Janga Apartment</item>
+        <item>U-Flex / Royal tower</item>
+        <item>Mamura Chowk</item>
+        <item>RO App Sec-62/64</item>
+        <item>Fortige Hospital</item>
+        <item>Neelkanth Apptt Sec. 62</item>
+        <item>Air Traffic Control (ATC)</item>
+        <item>Radission Hotel</item>
+        <item>Sector 22 H Block</item>
+        <item>Mayur Vihar Phase 3 X-ing BDR.</item>
+        <item>Okhla Ext A Fe</item>
+        <item>supreme court metro station</item>
+        <item>Vishnu Garden</item>
+        <item>Kota House</item>
+        <item>Shyam Nagar</item>
+        <item>Mcd Office</item>
+        <item>Delhi Jal B Ln</item>
+        <item>Tughlkabad Extn.</item>
+        <item>Devoli Road X</item>
+        <item>moolchand hospital</item>
+        <item>S.N.P. Depot</item>
+        <item>Said ul zeb village</item>
+        <item>Govindpuri No.3</item>
+        <item>D block Okhla Phase II</item>
+        <item>Loni Road Xing</item>
+        <item>Db C Kalkaji</item>
+        <item>Devli Xing</item>
+        <item>Azad Pur Terminal</item>
+        <item>Noida Sec-44</item>
+        <item>Amity  International School</item>
+        <item>MahaMaya Flyover West</item>
+        <item>Pusta No.-9</item>
+        <item>Sunder Nagar Market</item>
+        <item>gr-kailash part-2</item>
+        <item>jamrood pur</item>
+        <item>Bal Bharti School P R</item>
+        <item>Tarun Enclave</item>
+        <item>Parvana R Xing</item>
+        <item>R K Puram Sec 10</item>
+        <item>JNU</item>
+        <item>R K P S V S 7</item>
+        <item>lajpat nagar double story</item>
+        <item>jhulena village</item>
+        <item>Modi Floor Mills</item>
+        <item>Guru Ravidass Marg</item>
+        <item>Suraj Mal Park</item>
+        <item>Tuglakabad F</item>
+        <item>Old Rajendra Nagar Market</item>
+        <item>shivalik aptt.</item>
+        <item>hamdarad nagar</item>
+        <item>CWG Village / PWD Office</item>
+        <item>Khora Cly Labour Chowk</item>
+        <item>Noida Sec 58</item>
+        <item>Noida Sec 59/62</item>
+        <item>Mandir Marg Crossing</item>
+        <item>Safderjung Hospital</item>
+        <item>Feroz S Road</item>
+        <item>Chhattarpur</item>
+        <item>Chhattarpur Mandir</item>
+        <item>Chhattarpur More</item>
+        <item>Chhatarpur Extension</item>
+        <item>Rajpur Xing</item>
+        <item>Nanda Hospital</item>
+        <item>Satbari Village</item>
+        <item>Chandan Holla</item>
+        <item>Harasawroop Colony</item>
+        <item>Bhati Kalan More</item>
+        <item>Pahari Area</item>
+        <item>Jheer Khore Temple</item>
+        <item>Guru Rabidas M</item>
+        <item>DDA FLATS MUNIRKA</item>
+        <item>okhla xing</item>
+        <item>MOTI BAGH</item>
+        <item>Netaji Nagar</item>
+        <item>I Block S N</item>
+        <item>P.S. Madan Gir</item>
+        <item>Ambedkar Nagar Sec-4 virat Cinema</item>
+        <item>dera village</item>
+        <item>New Mangla P</item>
+        <item>Sultan Pur</item>
+        <item>Modern Batta</item>
+        <item>ghitorani village</item>
+        <item>ghitorani school</item>
+        <item>Rrc Station</item>
+        <item>Aya Nagar</item>
+        <item>Aya Nagar Xing</item>
+        <item>Gadai Pur</item>
+        <item>Govind Sadan</item>
+        <item>Jona Pur</item>
+        <item>Pahari Mandir</item>
+        <item>Mandi Village</item>
+        <item>rajinder nagar market</item>
+        <item>dashghera</item>
+        <item>air pusa</item>
+        <item>Hamdrad nagar</item>
+        <item>Begum Pur</item>
+        <item>vyas bhawan</item>
+        <item>Chhattarpur X</item>
+        <item>Qutub Minar Metro Station</item>
+        <item>ARADHNA ENCLAVE</item>
+        <item>Guru Hari Kishan Nagar</item>
+        <item>Nihal Vihar Xing</item>
+        <item>Sayed Nangloi</item>
+        <item>Meera Bai Polytechnic</item>
+        <item>jain mandir</item>
+        <item>Sec-A Vasant Kunj</item>
+        <item>Vasant Kunj Terminal</item>
+        <item>Raddison Hotel</item>
+        <item>Santoor Hotel</item>
+        <item>Air Traffic Control</item>
+        <item>R K Puram Sec-1</item>
+        <item>mile stone</item>
+        <item>Rajokari Xing</item>
+        <item>Shiv Murti-II</item>
+        <item>orchid hotel</item>
+        <item>Kapashera Vill 1</item>
+        <item>Pushpan Jali</item>
+        <item>Bijwason School</item>
+        <item>Bijwason Vill</item>
+        <item>Bijwason Flyover after Bridge</item>
+        <item>Bamnoli</item>
+        <item>Desu Power House</item>
+        <item>ROSHAN PURA</item>
+        <item>Najaf Garh Delhi Gate</item>
+        <item>Chhawala Camp</item>
+        <item>Greater K Ii E Block</item>
+        <item>Seemapuri</item>
+        <item>National Highway Xing</item>
+        <item>Khichri Pur NH-24</item>
+        <item>Sanjay Lake NH-24</item>
+        <item>Patpar Ganj Flyover</item>
+        <item>Sri Niwas Puri</item>
+        <item>South Extension-2</item>
+        <item>Rangpuri</item>
+        <item>K N College</item>
+        <item>Gargi College</item>
+        <item>tughlaka bad vilage</item>
+        <item>South Ext Kotla Petrol Pump</item>
+        <item>Shoping C P V</item>
+        <item>R K Puram M</item>
+        <item>MAYA PURI DEPOT</item>
+        <item>Mother Dairy Paschim Puri</item>
+        <item>power house</item>
+        <item>Mangol Puri D Block</item>
+        <item>Sultanpuri Machhi Market</item>
+        <item>SAFDAR JANG TERM.</item>
+        <item>Signal Enclave</item>
+        <item>Pushpanjali (Farm)</item>
+        <item>BSF Staff Quarter</item>
+        <item>PS Najaf Garh</item>
+        <item>R.K. Puram Sec 5</item>
+        <item>Shiv Murti -2</item>
+        <item>air</item>
+        <item>lodhi estate</item>
+        <item>mehar chand market</item>
+        <item>Niti Bagh</item>
+        <item>virat cinema</item>
+        <item>ambedkar nagar sec-5</item>
+        <item>B.K. Dutt Colony</item>
+        <item>Nari Niketan</item>
+        <item>Vikas Puri A Block</item>
+        <item>G Block Vikas Puri</item>
+        <item>USSR Embassy</item>
+        <item>German Ambessy</item>
+        <item>RK Puram Sec-7</item>
+        <item>BABA GANGANTH MANDIR</item>
+        <item>Nelson Mandela Marg Xing</item>
+        <item>B 10/11 Vasant Kunj</item>
+        <item>Manav Sathali School</item>
+        <item>B 8 Vasant Kunj</item>
+        <item>B 3 Vasant Kunj/Central School)</item>
+        <item>Chhattarpur Metro S</item>
+        <item>NIOA(Mass Communiocation)</item>
+        <item>JNU Sec-13</item>
+        <item>Nelson Mandela Marg T point</item>
+        <item>C 9 Vasant Kunj</item>
+        <item>a 1 kashav puram</item>
+        <item>power house lawrance road</item>
+        <item>Rani Jhansi Marg</item>
+        <item>DELHI GYMKHANA CLUB</item>
+        <item>Palika Club</item>
+        <item>chankiya bhawan</item>
+        <item>Safdarjung E</item>
+        <item>Green Field S</item>
+        <item>Ch Harsukh Marg</item>
+        <item>Ncc Office</item>
+        <item>Rk Ashram Metro Station</item>
+        <item>CSD Market</item>
+        <item>Kondali Xing</item>
+        <item>Samas Pur Jagir Village</item>
+        <item>R K Puram Sec 8</item>
+        <item>Rao Tula Ram Marg</item>
+        <item>OCS Apartments</item>
+        <item>Pusta xing</item>
+        <item>Subhash Nagar J Block</item>
+        <item>subhash nagar</item>
+        <item>Godawari Hostel</item>
+        <item>Administration Block</item>
+        <item>Paschima Bad</item>
+        <item>Poorvanchal Hostel</item>
+        <item>UK High Commision</item>
+        <item>Munirika Vihar</item>
+        <item>vishwas nagar dda flat</item>
+        <item>Vishwas Nagar CBD Ground</item>
+        <item>Poorvi Marg</item>
+        <item>Mithla Apartment</item>
+        <item>Nanak Pura Comunity Centre</item>
+        <item>bus stop for school childern</item>
+        <item>jhulelal mandir</item>
+        <item>Shalimar Bagh Community Centre</item>
+        <item>shalimar crossing</item>
+        <item>haider pur hospital</item>
+        <item>ps madan gir</item>
+        <item>NARELA RAILWAY X-ING</item>
+        <item>NAJAFGARH NANGLOI STAND</item>
+        <item>shafiabad more</item>
+        <item>Dk Depot</item>
+        <item>Najafgarh N Stnd</item>
+        <item>P.S. Sadar Bazar</item>
+        <item>Mall Road/Delhi Cantt.</item>
+        <item>D Block Janakpuri (Pankha Road)</item>
+        <item>Old Nangal Bridge (Pankha Road)</item>
+        <item>Old Nangal</item>
+        <item>Palam Railway X ing</item>
+        <item>HANUMAN MANDIR</item>
+        <item>Palam Airport Bypass</item>
+        <item>Dwarka Sec-22/25</item>
+        <item>Keshav Kunj / Pochan Pur Crossing</item>
+        <item>President Cabinet Apartment</item>
+        <item>Dwarka 6/10 Xing</item>
+        <item>Sector 8 DTC Bus Depot</item>
+        <item>Sector 9 Metro Station</item>
+        <item>Chanakya Puri Police Station</item>
+        <item>malcha marg</item>
+        <item>Taj Hotel</item>
+        <item>Mall Road Delhi Cantt.</item>
+        <item>Janakpuri C3</item>
+        <item>Dabri Xing</item>
+        <item>Mangla Puri Xing</item>
+        <item>Badu Sarai</item>
+        <item>Dwarka sec 4 / 5 Xing</item>
+        <item>Mangla Puri X-ing / Dwarka Gate</item>
+        <item>GOYLA VILLAGE BUS STAND</item>
+        <item>Samlakha Xing</item>
+        <item>A-2 Janak Puri Telephone Exchange</item>
+        <item>Chander Nagar</item>
+        <item>New Surya Kiran Apartment</item>
+        <item>Sardar Patel Marg</item>
+        <item>Delhi Cantt. Railway Bridge</item>
+        <item>Binda Pur 60 Foota Road</item>
+        <item>Seeta Puri Ext</item>
+        <item>Jat Khore</item>
+        <item>Chhawala Extn.</item>
+        <item>Najafgarh Nangloi Stand</item>
+        <item>Raksha S Bhawa</item>
+        <item>Singhnal Enclave</item>
+        <item>Dwarka Sector-5</item>
+        <item>Dwarka Sector-11 SBI</item>
+        <item>Kaveri Appartment Dwarka Sec-6</item>
+        <item>Sampada Bhawan</item>
+        <item>MANGLA PURI TERMINAL</item>
+        <item>PALAM COLONY</item>
+        <item>Patiala House Court</item>
+        <item>Ps Sadar Bazar</item>
+        <item>Dwarka Sector-7 Princess Park Apartment</item>
+        <item>President Cabinet Appt</item>
+        <item>Dwarka Court</item>
+        <item>Ashok Road</item>
+        <item>Dwarka Sec-19 Pkt-3</item>
+        <item>Dwarka Sec-10 Terminal</item>
+        <item>Palam R Xing</item>
+        <item>Palam Health Centre</item>
+        <item>Nangal Raya</item>
+        <item>Dwarka Sec-19 Pkt. -3</item>
+        <item>amrahi crossing (ramphal chowk)</item>
+        <item>BSF Camp</item>
+        <item>s p g complex spg sector-8</item>
+        <item>shahbad mohd. school</item>
+        <item>Sadar B D Cant</item>
+        <item>Iol Dc</item>
+        <item>Air Force M</item>
+        <item>NHW 8</item>
+        <item>Naraini Mandir</item>
+        <item>JHARODA XING</item>
+        <item>neelwalcrossing</item>
+        <item>Nangali Jalib</item>
+        <item>Janak Puri B 1</item>
+        <item>H 3 Vikas Puri</item>
+        <item>KAIR WOMEN COLLEGE</item>
+        <item>Ayudham Society</item>
+        <item>Janakpuri East Metro Station/ Nangli Zalib</item>
+        <item>Govt Press</item>
+        <item>Mukharji Park</item>
+        <item>Ajanta Cinema</item>
+        <item>Kachha Tihar</item>
+        <item>subhash nagar j block</item>
+        <item>CRPF Jharoda 1</item>
+        <item>Janak Puri East Metro St.</item>
+        <item>Navin Palace</item>
+        <item>DESU OFFICE MITRAO</item>
+        <item>Galib Pur Xing</item>
+        <item>Sarangpur</item>
+        <item>Jathikra Xing</item>
+        <item>district park janak puri</item>
+        <item>TITAR PUR</item>
+        <item>Sat Nagar Sablania Chowk</item>
+        <item>Raghubir Nagar Gurudwara</item>
+        <item>Baba Ramdev Mandir</item>
+        <item>DAULATPUR CROSSING</item>
+        <item>NANGLOI JJ COLONY-2</item>
+        <item>Rachna cinema  Rajender Place</item>
+        <item>Ganesh Nagar Check Post</item>
+        <item>lig flats hasthshal</item>
+        <item>hasthshal jj colony</item>
+        <item>Rohini Sec 7 8 Xing</item>
+        <item>Rohini Sec 15 E</item>
+        <item>Power House Pitam Pura</item>
+        <item>GTK Bypass / Mukraba Chowk</item>
+        <item>NARELA OLD MANDI</item>
+        <item>LAMPUR MORE</item>
+        <item>ND- Block Pitam Pura</item>
+        <item>Rohini sec-11  Pocket-A</item>
+        <item>Rohini SFS Flats</item>
+        <item>Maha Dev Chowk</item>
+        <item>Rohini Sector-28</item>
+        <item>Rohini Sec-27 Temple</item>
+        <item>Dtc Colony Pitam Pura</item>
+        <item>Mother Dairy P Puri</item>
+        <item>Paschim V W T</item>
+        <item>Guru Hari K N</item>
+        <item>Paschim V Gh13</item>
+        <item>Ram Mandir P V</item>
+        <item>Gh12 P Vihar</item>
+        <item>Nihal Vihar X</item>
+        <item>vishnu garden nw chowk</item>
+        <item>shivaji college</item>
+        <item>Wazir Pur JJ Colony Xing</item>
+        <item>Rohini Sector-21</item>
+        <item>Dcm Chowk</item>
+        <item>Nfg Chawala Stand</item>
+        <item>Nizam P S</item>
+        <item>Garhi R Vill</item>
+        <item>SHALIMAR BAGH CROSSING</item>
+        <item>Pvc Market</item>
+        <item>West Blk Frd Enc</item>
+        <item>mundka metro station</item>
+        <item>Police Cly M Nagar</item>
+        <item>bhati mines</item>
+        <item>indira nagar</item>
+        <item>RADHA SWAMI SATSANG</item>
+        <item>sp school</item>
+        <item>chhatarpur xing (jain mandir)</item>
+        <item>govt. tube well</item>
+        <item>VISHAL BAGH</item>
+        <item>ROHINI SECTOR 7/8 Xing</item>
+        <item>Nahar Pur Village</item>
+        <item>Rohini Sec. 3-4/5-6 xing</item>
+        <item>Rohini Sector-1 Avantika</item>
+        <item>Rohini Sec 21</item>
+        <item>bal bharti public school</item>
+        <item>parwana road</item>
+        <item>Chand Pur Xing</item>
+        <item>sattam vihar</item>
+        <item>bakkar wala flat</item>
+        <item>bakkar wala jj colony</item>
+        <item>B Block Sultan Puri</item>
+        <item>hanuman mandir sec 8</item>
+        <item>Rohini Sector - 7/8 Xing</item>
+        <item>Hazarat Nizamuddin</item>
+        <item>Tri Ngr Jai Mata Mkt Terminal</item>
+        <item>DLF Crossing</item>
+        <item>Shalimar Bagh B Block</item>
+        <item>north block lane</item>
+        <item>rajdhani enclave</item>
+        <item>Rohini Sec 9</item>
+        <item>Mubarak Pur Dabas</item>
+        <item>Rohini Sec 3-4-5-6 Crossing</item>
+        <item>BIRLA MANDIR</item>
+        <item>VIDYA VIHAR MARG</item>
+        <item>HOTEL SAMRAT ASHOK</item>
+        <item>PATEL CHOWK</item>
+        <item>Rithala Vill Xing</item>
+        <item>SECTOR  24 ROHINI Nallah</item>
+        <item>ROHINI SECTOR 25 Deep Vihar</item>
+        <item>Rohini Sec 23 Pocket C</item>
+        <item>Jantar Mantar</item>
+        <item>Palika Kender</item>
+        <item>Dwarka Sector-6/10- 5/11 Xing</item>
+        <item>dwarika sec-14 metro stn.</item>
+        <item>dwarka sec-5</item>
+        <item>Pritibha School</item>
+        <item>dwarka sec-11</item>
+        <item>dwarka sec-18A</item>
+        <item>Dwarka Sec-18 Global School</item>
+        <item>dwarka sector-18b</item>
+        <item>Dwarka Sector-10/11</item>
+        <item>Dwarka Sector-18/18A</item>
+        <item>Princes Apartment Sec-7</item>
+        <item>Mount Carmel School</item>
+        <item>Bank Vihar</item>
+        <item>Co-Ed. School Dwarka</item>
+        <item>classic Appartment</item>
+        <item>Harmony Apartment</item>
+        <item>Dwarka Sec-23 Mall</item>
+        <item>Dwarka Sec 23 / Pochan Pur Village</item>
+        <item>Palam Crossing</item>
+        <item>Harewali Xing</item>
+        <item>Vikas Kunj</item>
+        <item>AMPC Office</item>
+        <item>IGI Terminal 3</item>
+        <item>REDFORT</item>
+        <item>D C M CHOWK</item>
+        <item>PALACE CINEMA</item>
+        <item>LAKHSHMI BAI COLLEGE</item>
+        <item>WAZIRPUR INDUSTRIAL AREA</item>
+        <item>AZAD PUR NEW SUBZI MANDI</item>
+        <item>Bawana Sec 5</item>
+        <item>N.D. Rly. Station Gate No. 2</item>
+        <item>Dansa Crossing Najafgarh</item>
+        <item>A-5/6 Narela X-ing</item>
+        <item>B- 8-9 (GOYANK SCHOOL) VASANT KUNJ</item>
+        <item>Kishan Garh 2</item>
+        <item>Ps Parliamt S</item>
+        <item>kamla market</item>
+        <item>11Murti</item>
+        <item>C-2A Janakpuri</item>
+        <item>A-5B janakpuri</item>
+        <item>Sultan Pur X- ing</item>
+        <item>Mayur Vihar Phase III Terminal / Paper Market</item>
+        <item>Hanuman Mandir Sec-8</item>
+        <item>Rohini Sector-7-8 Xing</item>
+        <item>Scindia House / Kailash Bhawan</item>
+        <item>TV Tower Pitam Pura</item>
+        <item>Shankar Chowk Pritibha School</item>
+        <item>hindon vihar more</item>
+        <item>baroula village</item>
+        <item>jaipur golden transport</item>
+        <item>Ps Old Sabzi M</item>
+        <item>Motia Khan</item>
+        <item>Jwahar Lal Nehru Marg</item>
+        <item>kalyan puri xing</item>
+        <item>Mahrajpur Check Post</item>
+        <item>badarpur khadar shank no-27</item>
+        <item>Noida Sec 22 Shiv Mandir</item>
+        <item>Badarpur Bordr</item>
+        <item>VIVAKANAND HOSPITAL</item>
+        <item>Prince Apt</item>
+        <item>Mandawali Gov Scl</item>
+        <item>Vijay Bank</item>
+        <item>Vijay Nagar</item>
+        <item>DARYA PUR SCHOOL</item>
+        <item>DHAKKEWALA</item>
+        <item>Tis Hazari Animal Hospital</item>
+        <item>Kirti Ngr RlY Reser office</item>
+        <item>Auchandi Bordr</item>
+        <item>Bawana JJ Colony KL- Block</item>
+        <item>Mahrishi Balmiki Hospital</item>
+        <item>Budh Pur Vill</item>
+        <item>Khera Khurd</item>
+        <item>gandhi nagar flyover x-ing</item>
+        <item>mohamed pur</item>
+        <item>Ashok vihar H block</item>
+        <item>80\' road (singola  )</item>
+        <item>Delhi Coll Of Eng Shad</item>
+        <item>Munim Ji ka bagh</item>
+        <item>Kalyan Vihar-</item>
+        <item>i.t.o.</item>
+        <item>daria pur xing</item>
+        <item>Vidhya Vihar Marg</item>
+        <item>Yadav Nagar</item>
+        <item>GTB X-ing</item>
+        <item>Seelampur Market</item>
+        <item>delhi univercity gate no -1</item>
+        <item>Kali Bari (R.K. Asharm Xing)</item>
+        <item>Jaydev Park</item>
+        <item>Lakkhi Ram Park X</item>
+        <item>c block gokul puri</item>
+        <item>Seelampur (Jafrabad Road)</item>
+        <item>Police P D Gdn</item>
+        <item>Dda F Kk Duma</item>
+        <item>Trilokpuri Block 20/23</item>
+        <item>Inderpuri</item>
+        <item>gazipur xing</item>
+        <item>Sector-60 Noida</item>
+        <item>Noida Sec-43 P. C. Sadar Pur</item>
+        <item>Tol Bridge Corner</item>
+        <item>PS Parliament Street</item>
+        <item>Ganesh Nagar West</item>
+        <item>ISBT Kasmiri Gate</item>
+        <item>Mojpur</item>
+        <item>Trilok Puri 13-Block</item>
+        <item>Noida Sec-62 (Electronic City)</item>
+        <item>Cargo</item>
+        <item>Mata Ka Mandir Marg</item>
+        <item>Pusta Thokar No 9</item>
+        <item>Mayur Vihar Phase-1 Xing</item>
+        <item>TT Post under Pass</item>
+        <item>Aksherdham Mandir</item>
+        <item>Nehru Place Apartment</item>
+        <item>anupam cinema</item>
+        <item>saket market</item>
+        <item>Janpath Market</item>
+        <item>Bhati Kalan Village</item>
+        <item>Moti Bagh</item>
+        <item>b block kalka ji</item>
+        <item>okhla crossing</item>
+        <item>R.K. Puram Sec-1</item>
+        <item>Ghitorni Schol</item>
+        <item>Ghitorni Vill</item>
+        <item>Sadhu Vaswani Marg</item>
+        <item>ISBT Anand Vihar main Road</item>
+        <item>adhyapak nagar</item>
+        <item>JHATIKARA XING</item>
+        <item>Bijwason Flyover before Bridge</item>
+        <item>West E R Xing</item>
+        <item>Punjabi B M M</item>
+        <item>Mundka Village Xing</item>
+        <item>jawala heri market</item>
+        <item>B-2 Paschim Vihar</item>
+        <item>BG-2 Paschim Vihar</item>
+        <item>R K Puram More</item>
+        <item>shahjahan road / upsc</item>
+        <item>KEND. TERMINAL</item>
+        <item>Signal Officer Flats</item>
+        <item>Chhattarpur Metro Station</item>
+        <item>B-11 Sec vasant Kunj</item>
+        <item>THE LEELA PALACE KEMPINSKI</item>
+        <item>A 1 Keshav Puram</item>
+        <item>R K Puram Sec 1</item>
+        <item>gole market sec-4 (sbs marg)</item>
+        <item>Mayur Vihar Phase-2</item>
+        <item>Laxmibai Nagar</item>
+        <item>Vasant Kunj Sec-C-8</item>
+        <item>Ayurvedic Hospital</item>
+        <item>Shalimar Bagh Desu Cly</item>
+        <item>R K Puram Sec 2</item>
+        <item>JHARODA XING-DC3471</item>
+        <item>NAJAFGARH</item>
+        <item>DICHAON KALAN DEPOT</item>
+        <item>TILANG PUR KOTLA</item>
+        <item>LAXMI PARK COLONY</item>
+        <item>Kamaruddin Ngr Xing</item>
+        <item>Ram Nagar C Bq</item>
+        <item>SHIV RAM PARK</item>
+        <item>DESU Powar House</item>
+        <item>Patel Chowk Metro Station</item>
+        <item>Dwarka S 16 C</item>
+        <item>Dwarka S 17D C</item>
+        <item>S P G Complex</item>
+        <item>ps dwarka</item>
+        <item>Dichaon Kalan Village</item>
+        <item>SHIV ENCLAVE</item>
+        <item>dcm chemicals prem nagar</item>
+        <item>Anaj Mandi</item>
+        <item>SUREHRA Xing</item>
+        <item>C-Block Vikas Puri</item>
+        <item>Malikpur Zar Xing</item>
+        <item>Janak Puri West</item>
+        <item>Rohini sec- 11 Pocket- A</item>
+        <item>janta colony</item>
+        <item>ghore wala mandir</item>
+        <item>Bunny Camp</item>
+        <item>Satya Vihar / Chanchal Park</item>
+        <item>Gahevra Xing</item>
+        <item>Shiva Enclave/ New Multan Nagar</item>
+        <item>Darya Pur Village</item>
+        <item>sarvodya kanya vidhalya</item>
+        <item>metro workshop</item>
+        <item>ghervra railway phatak</item>
+        <item>bal bharti school (parwana road)</item>
+        <item>Nilothi Xing</item>
+        <item>Savda Jj Colony</item>
+        <item>pachim vihar</item>
+        <item>sent. colam bus school</item>
+        <item>D P S School</item>
+        <item>Industrial Area Bawan Sec-3</item>
+        <item>Prahlad Pur</item>
+        <item>Shahadra Road</item>
+        <item>Dwarka Sector-8 Metro Station</item>
+        <item>Vikaspuri Crossing (Shivaji Marg)</item>
+        <item>Palam More NH 8 Crossing</item>
+        <item>DSIDC Sec-1 (Bawana)</item>
+        <item>Jouti X-lng</item>
+        <item>Jagatpur Xing</item>
+        <item>Shiv Murti II</item>
+        <item>PVC Market</item>
+        <item>NITHARI VILLAGE</item>
+        <item>Turkman Gate / G B Pant Hosipatal</item>
+        <item>MCD Toll- Gurgaon</item>
+        <item>Shankar Chowk</item>
+        <item>Shyam Chowk</item>
+        <item>Atlas Chowk</item>
+        <item>IFFCO Chowk</item>
+        <item>Sukhrali</item>
+        <item>MDI</item>
+        <item>Gurugram Sec 14</item>
+        <item>Shri Mata Sheetla Devi Mandir</item>
+        <item>Gurugram ISBT</item>
+        <item>Paschim Vihar Super Bazar (West Metro Station)</item>
+        <item>Okhla Sabzi Mandi</item>
+        <item>NTP ECO Park</item>
+        <item>Meethapuur Chowk</item>
+        <item>Tughlakabad Metro Station</item>
+        <item>Power House Gate No. 3</item>
+        <item>S.J. Terminal</item>
+        <item>Mian Wali Nagar</item>
+        <item>Bahadurgarh</item>
+        <item>Mile Stone / Shiv Shankar Dharam Kanta</item>
+        <item>Mundka Industrial Area / Mundka School</item>
+        <item>Madipur JJ Colony Metro Station</item>
+        <item>Pipal Chowk</item>
+        <item>Okhla more</item>
+        <item>RRC Station</item>
+        <item>Sikandarpur</item>
+        <item>Kanjhawala Haryana Shakti C-School</item>
+        <item>Satyawadi Raja Harishchander Hospital</item>
+        <item>A 9 Narela</item>
+        <item>Mundka Main Rohtak Road School</item>
+        <item>District Centre Nazafgarh Road</item>
+        <item>Mundela Kalan Depot</item>
+        <item>District Centre Najafgarh Road</item>
+        <item>Tukhmir Pur</item>
+        <item>Nehru Vihar (Dayal Pur)</item>
+        <item>Sadat Pur</item>
+        <item>Johri Pur</item>
+        <item>Moti Nagar Ind. Area//Kirti Nagar</item>
+        <item>Mahaveer Enclave Part II Gali No.4</item>
+        <item>Vivant Hotel Sec-22</item>
+        <item>Domestic Airport</item>
+        <item>Airport Terminal I</item>
+        <item>Bes Hospital</item>
+        <item>Dwarka Sec 8 Metro station Crossing</item>
+        <item>Mahaveer Enclave Part II  Gali No.10</item>
+        <item>Mahaveer Enclave Part II  Gali No.4</item>
+        <item>R S Satsang</item>
+        <item>Vipasana Bhawan</item>
+        <item>Sultanpuri B block</item>
+        <item>Rohini Ext (Balaji Babosa Marg)</item>
+        <item>Rohini Sec 23 Pocket 2</item>
+        <item>Rohini Sec 23 Pocket 9</item>
+        <item>Rohini Sec 24/25 Crossing</item>
+        <item>Ashok Vihar Centre Market.</item>
+        <item>Sarai Rohilla Railway Station</item>
+        <item>SND</item>
+        <item>Yamuna Bazar</item>
+        <item>RK Puram Sec 4</item>
+        <item>NIHFW</item>
+        <item>Said-ul-Ajaib</item>
+        <item>Gurgaon Sec 14</item>
+        <item>Gurgaon Sec 24</item>
+        <item>Sheetla Mata Mandir</item>
+        <item>Pashchimi Marg Vasant Vihar</item>
+        <item>RK Puram Sec 6</item>
+        <item>RK Puram Sec 4 (Kendriya Vidhyalaya)</item>
+        <item>MCD office Keshav Chowk</item>
+        <item>Ghazipur Dairy Farm</item>
+        <item>Nangloi JJ cly No 4</item>
+        <item>Tikri Piao</item>
+        <item>Bahadur Garh</item>
+        <item>Civil Lines Metro Station</item>
+        <item>GTK ByPass</item>
+        <item>Trilokpuri Block 13</item>
+        <item>Pachim Vihar BG-5</item>
+        <item>Pachmi Vihar BG-2</item>
+        <item>29/30 Xing Pachim Vihar</item>
+        <item>A-3 Jawala Heri Market/Pachim Vihar</item>
+        <item>Pachim Vihar Water Tank</item>
+        <item>A-2 Paschim Vihar</item>
+        <item>Bhero Enclave/Meera Enclave</item>
+        <item>ITO AGCR</item>
+        <item>Tr Nagar/Wazirpur JJ Colony</item>
+        <item>KD Blcok Ashok Vihar</item>
+        <item>Madarsa</item>
+        <item>Maujpur/Babarpur Metro Station</item>
+        <item>Dwarka Sec 18A</item>
+        <item>Dwarka Sec 17A</item>
+        <item>Dwarka Sec 13/14</item>
+        <item>Raksha Sampada Bhawan</item>
+        <item>Welcome Zafrabad</item>
+        <item>Deepali Chowk (Saraswati Vihar)</item>
+        <item>ISBT Kashmiri Gate Shyam Nath Marg</item>
+        <item>ISBT Kashmiri Gate</item>
+        <item>Nihal Vihar T Point</item>
+        <item>Delhi State Co Operative Bank</item>
+        <item>Old Police Chowki</item>
+        <item>Rajendra Public School</item>
+        <item>B Block Nihal Vihar</item>
+        <item>Nihal Vihar Crossing</item>
+        <item>GH 12 Pachim Vihar</item>
+        <item>Pachim Vihar GH 13/14</item>
+        <item>Road No. 29/30 Crossing</item>
+        <item>Shiv Enclave/New Multan Nagar</item>
+        <item>Shastri Nagar/Tri Nagar</item>
+        <item>Shastri Nagar Shiv Nagar</item>
+        <item>Lady Harding Hospital</item>
+        <item>Frances School</item>
+        <item>Kamal Vihar</item>
+        <item>Natthu Pura Crossing</item>
+        <item>Pachim Vihar X-ing</item>
+        <item>A-2 Pachim Puri</item>
+        <item>Madipur Chowk</item>
+        <item>Punjabi bagh Metro station</item>
+        <item>Moti Nagar B Block</item>
+        <item>RK Puram Sec 5</item>
+        <item>Palam Colony Mehram Nagar</item>
+        <item>Moolchand Hospital</item>
+        <item>G Block (Kamraj Marg)</item>
+        <item>Jail Road Sector 18</item>
+        <item>Bhathal Xing</item>
+        <item>Dwarka Sec 25 Crossing</item>
+        <item>Dwarka Sec 22/23 Crossing</item>
+        <item>Jaffarpur NSUT</item>
+        <item>R Block Mangolpuri</item>
+        <item>P Block Mangolpuri</item>
+        <item>D Block Mangolpuri</item>
+        <item>Central School</item>
+        <item>Air Force Museum</item>
+        <item>Fire Station Shankar Road</item>
+        <item>Sanatan Dharam Mandir Shankar Road</item>
+        <item>Palam Metro Station</item>
+        <item>Geeta Colony (Block -6) Ramleela Graund</item>
+        <item>Dwarka Sec 6/7</item>
+        <item>Dwarka Sec 6</item>
+        <item>Dwarka Sec 9/10 Crossing</item>
+        <item>Dwarka Sec-19/20 X-ing</item>
+        <item>S Block Mangolpuri</item>
+        <item>S Raja Harishchandra Hospital</item>
+        <item>Narela Sec 5/6</item>
+        <item>Narela Sec 5/8</item>
+        <item>Narela A-5</item>
+        <item>Gurugram Sector 24</item>
+        <item>Gugugram Sec 14</item>
+        <item>Kishan Ghat</item>
+        <item>St. Colambas School</item>
+        <item>Patparganj Flyover</item>
+        <item>Chankiya Bhawan</item>
+        <item>Delhi Gymkhana Club</item>
+        <item>CH Harsukh Marg</item>
+        <item>NCC Office</item>
+        <item>RK Puram Sec 2</item>
+        <item>Dwarka Sec 21/25</item>
+        <item>G Block Puspanjali</item>
+        <item>Pushpanjali</item>
+        <item>Mahavir Nagar</item>
+        <item>Tigris Road</item>
+        <item>Dr. APJ Abdul Kalam School</item>
+        <item>Deen Pur</item>
+        <item>Goyla School</item>
+        <item>Goyla Primary School</item>
+        <item>Prashant Vihar</item>
+        <item>RK Puram Sec 3</item>
+        <item>National Gallary of Modern Art</item>
+        <item>Madipur (Pashchimpuri Chowk)</item>
+        <item>Maya Puri Depot</item>
+        <item>Shastri Park (Petrol Pump)</item>
+        <item>Rohini Sec 11</item>
+        <item>Janakpuri C5B/C4H</item>
+        <item>Vikaspuri (A Block)</item>
+        <item>DAV Stop</item>
+        <item>Paharganj Dispenasary</item>
+        <item>Shalimar Crossing Ring Road</item>
+        <item>B Block Shalimar Bagh</item>
+        <item>Jalebi Chowk</item>
+        <item>Sultanpuri XING</item>
+        <item>Zafrabad Metro Station</item>
+        <item>Maujpur crossing</item>
+        <item>ND Block Pitampura</item>
+        <item>Mayur Vihar Phase III Xing</item>
+        <item>MTNL Saraswati Vihar/Shakur Basti</item>
+        <item>M.C.D. Office</item>
+        <item>JNU X-ing</item>
+        <item>Ptampura Power House</item>
+        <item>Rohini Sec 37 Depot</item>
+        <item>Pansali</item>
+        <item>Rohini Sec 36</item>
+        <item>Gulabi Bagh DDA Flats</item>
+        <item>Dwarka Sec 22/25 Crossing</item>
+        <item>Asharam Bapu Ashram</item>
+        <item>Karam Pura</item>
+        <item>Jaffar Pur NSUT</item>
+        <item>DESU Mitraon</item>
+        <item>Shiv Murti-2</item>
+        <item>Palam Gaon</item>
+        <item>Dhool Siras Xing</item>
+        <item>Kalkaji B Block</item>
+        <item>Deshbandhu Apartment</item>
+        <item>Rohini Sec 24</item>
+        <item>Rohini Sec 23 Pocket 3</item>
+        <item>Mayur Vihar Phase III (T)</item>
+        <item>Sapera Basti</item>
+        <item>New Kondli C Block</item>
+        <item>New Kondli A1</item>
+        <item>Lodhi Hotel/Shiv Mandir</item>
+        <item>Bhalswa Village Crossing</item>
+        <item>Gujjar Chowk</item>
+        <item>Bhalswa JJ Colony</item>
+        <item>Delhi Police Apartment</item>
+        <item>Rohini Sec 25 Deep Vihar</item>
+        <item>Sindhu Village</item>
+        <item>IGI Airport Terminal 3</item>
+        <item>ITI Jail Road</item>
+        <item>Anand Gram Ashram</item>
+        <item>Shahdra Boarder/Dilshad Garden Metro</item>
+        <item>Saket District Centre</item>
+        <item>PTS Geetanjali</item>
+        <item>Saroop Nagar</item>
+        <item>Shiv Mandir Sannoth</item>
+        <item>RK Puram Sec 8</item>
+        <item>Express TML Out Gate</item>
+        <item>Kamla Market</item>
+        <item>Shakarpur X-ing</item>
+        <item>China Embassy</item>
+        <item>Mansa Ram Marg</item>
+        <item>Shopping Centre Paschim Vihar</item>
+        <item>President Cabinet Appartment</item>
+        <item>C-B Sec. School</item>
+        <item>C.G. Hospital</item>
+        <item>DSIDC Flats</item>
+        <item>Max Hospital</item>
+        <item>Rajender Nagar Crossing</item>
+        <item>Administrative Block</item>
+        <item>B&amp;D Blcok Madi Pur</item>
+        <item>Khera Khurd Nehar X-ing</item>
+        <item>HR Border</item>
+        <item>Army Public School</item>
+        <item>Rang puri</item>
+        <item>Dwarka Sec 22/25</item>
+        <item>Bharthal More</item>
+        <item>Vasant Kunj Enclave B Block</item>
+        <item>NII/IIMC</item>
+        <item>Jheel</item>
+        <item>Rajkori Crossing</item>
+        <item>Ambedkar Stadium</item>
+        <item>Madarsa/Seelam Pur</item>
+        <item>East of Kailash</item>
+        <item>Air Force Station Bawana</item>
+        <item>Maharaj Aggrasen Public School</item>
+        <item>MTNL</item>
+        <item>Dwarka Sec-22 Cluster Depot</item>
+        <item>Keshav Kunj</item>
+        <item>Dwarka Sec 23 Mall</item>
+        <item>Gole Market (St. Columbas School)</item>
+        array.xml</string-array>
+</resources>

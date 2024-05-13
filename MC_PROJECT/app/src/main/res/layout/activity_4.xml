@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity4"
+    android:background="@drawable/gradient_background">
+
+    <!-- Start and Destination Station TextViews and Spinners -->
+
+    <TextView
+        android:id="@+id/startstation"
+        android:layout_width="188dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="210dp"
+        android:text="Start Station: "
+        android:textColor="#80D8FF"
+        android:textColorHint="#80D8FF"
+        android:textStyle="bold" />
+
+    <Spinner
+        android:id="@+id/startStationSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/startstation"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:entries="@array/station_names"
+        android:prompt="@string/select_start_station"
+        android:background="@drawable/spinner_border" />
+
+    <!-- ScrollView with routesContainer -->
+
+    <!-- Button to get current time -->
+    <TextView
+        android:id="@+id/destinationstation"
+        android:layout_width="188dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/startStationSpinner"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="210dp"
+        android:text="Destination Station: "
+        android:textColor="#80D8FF"
+        android:textColorHint="#80D8FF"
+        android:textStyle="bold" />
+
+    <Spinner
+        android:id="@+id/endStationSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/destinationstation"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:entries="@array/station_names"
+        android:prompt="@string/select_end_station"
+        android:background="@drawable/spinner_border"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/btnGetCurrentTime"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="163dp"
+        android:layout_marginBottom="87dp">
+
+        <LinearLayout
+            android:id="@+id/routesContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp"
+            android:textColor="#000000"
+            android:textStyle="bold">
+
+            <!-- Add routes dynamically here -->
+
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/btnGetCurrentTime"
+        android:layout_width="213dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginEnd="97dp"
+        android:layout_marginBottom="27dp"
+        android:backgroundTint="#FFFFFF"
+        android:onClick="getCurrentTime"
+        android:text="Get Current Time"
+        android:textColor="#000000" />
+
+    <!-- TextView to display current time -->
+    <TextView
+        android:id="@+id/currentTimeTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/btnGetCurrentTime"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="205dp"
+        android:layout_marginBottom="12dp"
+        android:text=""
+        android:textColor="#80D8FF"
+        android:textColorHint="#80D8FF"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+
+</RelativeLayout>
